@@ -26,7 +26,7 @@ JOBS = [
     ),
 ]
 
-CDHIT_THRESHOLD = 0.9   # 0.9 hoặc 0.95 tuỳ bạn
+CDHIT_THRESHOLD = 0.9   
 
 
 # ===== STEP 1: CSV -> FASTA =====
