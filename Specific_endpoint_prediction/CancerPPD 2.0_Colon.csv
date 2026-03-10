@@ -1,0 +1,578 @@
+ID,PMID,YEAR,Sequence,Name,Length,Linear/Cyclic,Chirality,Chem-MOD,C-ter MOD,N-ter MOD,Nature,Origin,Cell Line,Cancer Type,Assay,Activity,Testing Time,Tissue Affected,Patents
+1103,18617323,2008,RAGLQFPVGRLLRRLLRRLLR,Buforin IIb,21,Linear,L,None,Free,Free,Antibacterial,histone H2A,COLO-205,Colon Cancer,MTT/MTS assay,IC50=11.2 µg/ml,48-h,Colon,None
+1104,18617323,2008,RAGLQFPVGRLLRRLLRRLLR,Buforin IIb,21,Linear,L,None,Free,Free,Antibacterial,histone H2A,HCT-116,Colon Cancer,MTT/MTS assay,IC50=14.6 µg/ml,48-h,Colon,None
+1105,18617323,2008,RAGLQFPVGRLLRRLLRRLLR,Buforin IIb,21,Linear,L,None,Free,Free,Antibacterial,histone H2A,HCT-15,Colon Cancer,MTT/MTS assay,IC50=13.2 µg/ml,48-h,Colon,None
+1106,18617323,2008,RAGLQFPVGRLLRRLLRRLLR,Buforin IIb,21,Linear,L,None,Free,Free,Antibacterial,histone H2A,HT-29,Colon Cancer,MTT/MTS assay,IC50=17.6 µg/ml,48-h,Colon,None
+1107,18617323,2008,RAGLQFPVGRLLRRLLRRLLR,Buforin IIb,21,Linear,L,None,Free,Free,Antibacterial,histone H2A,KM12,Colon Cancer,MTT/MTS assay,IC50=12 µg/ml,48-h,Colon,None
+1108,18617323,2008,RAGLQFPVGRLLRRLLRRLLR,Buforin IIb,21,Linear,L,None,Free,Free,Antibacterial,histone H2A,SW-620,Colon Cancer,MTT/MTS assay,IC50=12.7 µg/ml,48-h,Colon,None
+1233,7849420,1994,KWKVFKKIEKMGRNIRNGIVKAGPAIAVLGEAKAL,Cecropin B,35,Linear,L,None,Amidation,Free,Antibacterial,Hyalophora Cecropia(silkmoth),HRT-18,Colon Cancer,MTT assay,IC50=25.5 µM,96-h,Colon,None
+1234,7849420,1994,KWKVFKKIEKMGRNIRNGIVKAGPAIAVLGEAKAL,Cecropin B,35,Linear,L,None,Amidation,Free,Antibacterial,Hyalophora Cecropia(silkmoth),DLD-1,Colon Cancer,MTT assay,IC50=>100 µM,96-h,Colon,None
+1237,7849420,1994,SWLSKTAKKLENSAKKRISEGIAIAIQGGPR,Cecropin P1,31,Linear,L,None,Free,Free,Antibacterial,Small Intestine of Pig,HRT-18,Colon Cancer,MTT assay,IC50=>100 µM,96-h,Colon,None
+1238,7849420,1994,SWLSKTAKKLENSAKKRISEGIAIAIQGGPR,Cecropin P1,31,Linear,L,None,Free,Free,Antibacterial,Small Intestine of Pig,DLD-1,Colon Cancer,MTT assay,IC50=>100 µM,96-h,Colon,None
+1241,7849420,1994,MPRWRLFRRIDRVGKQIKQGILRAGPAIALVGDARAVG,Shiva-1,38,Linear,L,None,Free,Free,Antibacterial,Magainin,HRT-18,Colon Cancer,MTT assay,IC50=49.3 µM,96-h,Colon,None
+1242,7849420,1994,MPRWRLFRRIDRVGKQIKQGILRAGPAIALVGDARAVG,Shiva-1,38,Linear,L,None,Free,Free,Antibacterial,Magainin,DLD-1,Colon Cancer,MTT assay,IC50=>100 µM,96-h,Colon,None
+1245,7849420,1994,KWKVFKKIEKMGRNIRNGIVKAGPAIAVLGEAKAL,Cecropin B,35,Linear,L,None,Amidation,Free,Antibacterial,Hyalophora Cecropia(silkmoth),HCLO,Colon Cancer,MTT assay,IC50=33.5 µM,96-h,Colon,None
+1247,7849420,1994,KWKVFKKIEKMGRNIRNGIVKAGPAIAVLGEAKAL,Cecropin B,35,Linear,L,None,Amidation,Free,Antibacterial,Hyalophora Cecropia(silkmoth),MAC15A,Colon Cancer,MTT assay,IC50=37 µM,96-h,Colon,None
+1249,7849420,1994,KWKVFKKIEKMGRNIRNGIVKAGPAIAVLGEAKAL,Cecropin B,35,Linear,L,None,Amidation,Free,Antibacterial,Hyalophora Cecropia(silkmoth),HT-29,Colon Cancer,MTT assay,IC50=>100 µM,96-h,Colon,None
+1255,10951191,2000,GLFDIIKKIAESF,Aurein1.2,13,Linear,L,None,Amidation,Free,Antimicrobial,Southern bell frog,Colon tumor cellline,Colon Cancer,Not Available,LC50 = 10 µM,Not Available,Colon,None
+1264,10951191,2000,GLFDIVKKVVGAFGSL,Aurein2.5,16,Linear,L,None,Amidation,Free,Antimicrobial,Southern bell frog,Colon tumor cellline,Colon Cancer,Not Available,LC50=10-100 µM,Not Available,Colon,None
+1273,10951191,2000,GLFDIAKKVIGVIGSL,Aurein2.6,16,Linear,L,None,Amidation,Free,Antimicrobial,Southern bell frog,Colon tumor cellline,Colon Cancer,Not Available,LC50=10-100 µM,Not Available,Colon,None
+1282,10951191,2000,GLFDIVKKIAGHIAGSI,Aurein 3.1,17,Linear,L,None,Amidation,Free,Antimicrobial,Southern bell frog,Colon tumor cellline,Colon Cancer,Not Available,LC50 = 10 µM,Not Available,Colon,None
+1291,10951191,2000,GLFDIVKKIAGHIASSI,Aurein 3.2,17,Linear,L,None,Amidation,Free,Antimicrobial,Southern bell frog,Colon tumor cellline,Colon Cancer,Not Available,LC50=10-100 µM,Not Available,Colon,None
+1300,10951191,2000,GLFDIVKKIAGHIVSSI,Aurein 3.3,17,Linear,L,None,Amidation,Free,Antimicrobial,Southern bell frog,Colon tumor cellline,Colon Cancer,Not Available,LC50 = 10 µM,Not Available,Colon,None
+1377,"1708887, 2285300",1990,GIGKFLHSAKKFGKAFVGEIMNS,Magainin 2,23,Linear,L,None,Amidation,Free,Antibacterial,Xenopus laevis,Daudi,Colon Cancer,Trypan blue assay,IC50 >150 µg/ml,72-h,Blood,None
+1547,18656352,2008,KAQIRAMECNIL,A5,12,Linear,L,None,Free,Free,Anticancer,Cyclin B (285-296),HCT-116,Colon Cancer,MTT/MTS assay,Not Available,24-h,Colon,None
+1548,18656352,2008,RKKRRQRRR,Tat,9,Linear,L,None,Free,Free,Anticancer,HIV-Tat (49-57),HCT-116,Colon Cancer,MTT/MTS assay,~10% Cytotoxicity at 100 µM,24-h,Colon,None
+1549,18656352,2008,KAQIRAMECNILGRKKRRQRRR,Tat-a5,22,Linear,L,None,Free,Free,Anticancer,HIV-Tat (49-57),HCT-116,Colon Cancer,MTT/MTS assay,~80% Cytotoxicity at 100 µM,24-h,Colon,None
+1669,15796184,2005,LRVRLASHLRKLRKRLLRDADDLQKRLAVY,Apo E,30,Linear,L,None,Free,Free,Antibacterial,Apoprotein E,COLO-201,Colon Cancer,MTT/MTS assay,65 % Cytotoxity at 40 µg/ml,4-h,Colon,None
+1734,None,2011,FLGWLFKWAKK,Gaegurin peptides SEQID NO: 1,11,Linear,L,None,Free,Free,Antimicrobial,Korean frog Rana rugosa,HCTl-16,Colon Cancer,MTT/MTS assay,IC50 = 27 mM,24-h,Colon,US_008076284_B2
+1735,None,2011,FLKWLFKWAKK,Gaegurin peptides SEQID NO: 2,11,Linear,L,None,Free,Free,Antimicrobial,Korean frog Rana rugosa,HCTl-16,Colon Cancer,MTT/MTS assay,IC50 = 14.8 mM,24-h,Colon,US_008076284_B2
+1736,None,2011,FLGWLFKWAWK,Gaegurin peptides SEQID NO: 3,11,Linear,L,None,Free,Free,Antimicrobial,Korean frog Rana rugosa,HCTl-16,Colon Cancer,MTT/MTS assay,IC50 = 24.63 mM,24-h,Colon,US_008076284_B2
+1737,None,2011,FLWWLFKWAWK,Gaegurin peptides SEQID NO: 4,11,Linear,L,None,Free,Free,Antimicrobial,Korean frog Rana rugosa,HCTl-16,Colon Cancer,MTT/MTS assay,IC50 = 14.8 mM,24-h,Colon,US_008076284_B2
+1738,None,2011,FLGWLFKWAKK,Gaegurin peptides SEQID NO: 1,11,Linear,L,None,Free,Free,Antimicrobial,Korean frog Rana rugosa,NCI-H630,Colon Cancer,MTT/MTS assay,Not Available,24-h,Colon,US_008076284_B2
+1739,None,2011,FLKWLFKWAKK,Gaegurin peptides SEQID NO: 2,11,Linear,L,None,Free,Free,Antimicrobial,Korean frog Rana rugosa,NCI-H630,Colon Cancer,MTT/MTS assay,Not Available,24-h,Colon,US_008076284_B2
+1740,None,2011,FLGWLFKWAWK,Gaegurin peptides SEQID NO: 3,11,Linear,L,None,Free,Free,Antimicrobial,Korean frog Rana rugosa,NCI-H630,Colon Cancer,MTT/MTS assay,IC50 = 48 mM,24-h,Colon,US_008076284_B2
+1741,None,2011,FLWWLFKWAWK,Gaegurin peptides SEQID NO: 4,11,Linear,L,None,Free,Free,Antimicrobial,Korean frog Rana rugosa,NCI-H630,Colon Cancer,MTT/MTS assay,IC50 = 57 mM,24-h,Colon,US_008076284_B2
+1745,None,2011,FLGWLFKWAKK,Gaegurin peptides SEQID NO: 1,11,Linear,L,None,Free,Free,Antimicrobial,Korean frog Rana rugosa,NCI-H630,Colon Cancer,MTT/MTS assay,Not Available,24-h,Colon,WO_2007133033_A1
+1751,None,2011,FLKWLFKWAKK,Gaegurin peptides SEQID NO: 2,11,Linear,L,None,Free,Free,Antimicrobial,Korean frog Rana rugosa,HCTl-16,Colon Cancer,MTT/MTS assay,IC50 = 14.8 mM,24-h,Colon,WO_2007133033_A1
+1753,None,2011,FLKWLFKWAKK,Gaegurin peptides SEQID NO: 2,11,Linear,L,None,Free,Free,Antimicrobial,Korean frog Rana rugosa,NCI-H630,Colon Cancer,MTT/MTS assay,Not Available,24-h,Colon,WO_2007133033_A1
+1759,None,2011,FLGWLFKWAWK,Gaegurin peptides SEQID NO: 3,11,Linear,L,None,Free,Free,Antimicrobial,Korean frog Rana rugosa,HCTl-16,Colon Cancer,MTT/MTS assay,IC50 = 24.63 mM,24-h,Colon,WO_2007133033_A1
+1761,None,2011,FLGWLFKWAWK,Gaegurin peptides SEQID NO: 3,11,Linear,L,None,Free,Free,Antimicrobial,Korean frog Rana rugosa,NCI-H630,Colon Cancer,MTT/MTS assay,IC50 = 48 mM,24-h,Colon,WO_2007133033_A1
+1767,None,2011,FLWWLFKWAWK,Gaegurin peptides SEQID NO: 4,11,Linear,L,None,Free,Free,Antimicrobial,Korean frog Rana rugosa,HCTl-16,Colon Cancer,MTT/MTS assay,IC50 = 14.8 mM,24-h,Colon,WO_2007133033_A1
+1769,None,2011,FLWWLFKWAWK,Gaegurin peptides SEQID NO: 4,11,Linear,L,None,Free,Free,Antimicrobial,Korean frog Rana rugosa,NCI-H630,Colon Cancer,MTT/MTS assay,IC50 = 57 mM,24-h,Colon,WO_2007133033_A1
+1925,None,2005,FALALKALKKALKKLKKALKKAL,Hecate AC,23,Linear,L,None,Free,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =6 µg/ml,24-h,Colon,US_06875744_B2
+1926,None,2005,FALALKALKKALKKLKKALKKAL,Hecate AM,23,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =46 µg/ml,24-h,Colon,US_06875744_B2
+1927,None,2005,MPKWKVFKKIEKVGRNIRNGIVKAGPAIAVLGEAKALG,SB-37 AC,38,Linear,L,None,Free,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =82 µg/ml,24-h,Colon,US_06875744_B2
+1928,None,2005,MPKWKVFKKIEKVGRNIRNGIVKAGPAIAVLGEAKALG,SB-37 AM,38,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+1929,None,2005,FAKKLAKKLKKLAKKLAKLALAL,SHIVA 10 AC,23,Linear,L,None,Free,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,Not Available,24-h,Colon,US_06875744_B2
+1930,None,2005,FALAAKALKKLAKKLKKLAKKAL,FLAK01 AM,23,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =5 µg/ml,24-h,Colon,US_06875744_B2
+1931,None,2005,FALALKALKKLLKKLKKLAKKAL,FLAK03 AM,23,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =38 µg/ml,24-h,Colon,US_06875744_B2
+1932,None,2005,FALALKALKKLAKKLKKLAKKAL,FLAK04 AM,23,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =12 µg/ml,24-h,Colon,US_06875744_B2
+1933,None,2005,FALAKLAKKAKAKLKKALKAL,FLAK05 AM,21,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =8 µg/ml,24-h,Colon,US_06875744_B2
+1934,None,2005,FALALKALKKLKKALKKAL,FLAK06 AM,19,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =26 µg/ml,24-h,Colon,US_06875744_B2
+1935,None,2005,FALALKALKKLKKALKKAL,FLAK06 AC,19,Linear,L,None,Free,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =59 µg/ml,24-h,Colon,US_06875744_B2
+1936,None,2005,FAKKLAKKLKKLAKLALAL,FLAK06 R-AC,19,Linear,L,None,Free,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =210 µg/ml,24-h,Colon,US_06875744_B2
+1937,None,2005,VALALKALKKALKKLKKALKKAL,KAL V,23,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =62 µg/ml,24-h,Colon,US_06875744_B2
+1938,None,2005,FALALKKALKALKKAL,FLAK 17 AM,16,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =35 µg/ml,24-h,Colon,US_06875744_B2
+1939,None,2005,FAKKLAKLAKKLAKLAL,FLAK 26 AM,17,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =14 µg/ml,24-h,Colon,US_06875744_B2
+1940,None,2005,FAKKLAKLAKKLAKLALAL,FLAK 25 AM,19,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =30 µg/ml,24-h,Colon,US_06875744_B2
+1941,None,2005,FALALKALKKALkkLKKALKKAL,HECATE 2DAc,23,Linear,Mix,None,Free,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =57 µg/ml,24-h,Colon,US_06875744_B2
+1942,None,2005,FAKKLAKLAKKLLAL,FLAK43 AM,15,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =13 µg/ml,24-h,Colon,US_06875744_B2
+1943,None,2005,FAKKLAKLAKKALAL,FLAK44 AM,15,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =435 µg/ml,24-h,Colon,US_06875744_B2
+1944,None,2005,FALAKKALKKAKKAL,FLAK62 AM,15,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+1945,None,2005,FAKKLAKKLKKLAKLALAK,FLAK 06R-AM,19,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =120 µg/ml,24-h,Colon,US_06875744_B2
+1946,None,2005,GIGKFLKKAKKFGKAFVKILKK,MSI-78 AM,22,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =34 µg/ml,24-h,Colon,US_06875744_B2
+1947,None,2005,FAKLLAKLAKKLL,FLAK50,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =9 µg/ml,24-h,Colon,US_06875744_B2
+1948,None,2005,FAKKLAKLALKLAKL,FLAK51,15,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =32 µg/ml,24-h,Colon,US_06875744_B2
+1949,None,2005,FAKKLAKKLAKLAL,FLAK57,14,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =180 µg/ml,24-h,Colon,US_06875744_B2
+1950,None,2005,FAKKLKKLAKLAKKL,FLAK71,15,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =160 µg/ml,24-h,Colon,US_06875744_B2
+1951,None,2005,FAKKALKALKKL,FLAK77,12,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+1952,None,2005,VAKLLAKLAKKLL,FLAK50V,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =47 µg/ml,24-h,Colon,US_06875744_B2
+1953,None,2005,FAKLLAKLAKKL,FLAK50F,12,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =100 µg/ml,24-h,Colon,US_06875744_B2
+1954,None,2005,VAKKLAKLAKKLAKLAL,FLAK26V AM,17,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =46 µg/ml,24-h,Colon,US_06875744_B2
+1955,None,2005,KWKLFKKIGAVLKVL,CAME-15,15,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,Not Available,24-h,Colon,US_06875744_B2
+1956,None,2005,FAKLLAKLAKKAL,FLAK50C,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,Not Available,24-h,Colon,US_06875744_B2
+1957,None,2005,FAKLLAKALKKLL,FLAK50D,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =14 µg/ml,24-h,Colon,US_06875744_B2
+1958,None,2005,FAKLLKLAAKKLL,FLAK 50E,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =215 µg/ml,24-h,Colon,US_06875744_B2
+1959,None,2005,FAKLLAKKLL,FLAK80,10,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =740 µg/ml,24-h,Colon,US_06875744_B2
+1960,None,2005,FAKKLAKALL,FLAK81,10,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+1961,None,2005,FAKKLAKKLL,FLAK82,10,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =42 µg/ml,24-h,Colon,US_06875744_B2
+1962,None,2005,FAKLAKKLL,FLAK83M,9,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+1963,None,2005,FAKKLAKLAKKLAKLAL,FLAK 26 Ac,17,Linear,L,None,Free,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =100 µg/ml,24-h,Colon,US_06875744_B2
+1964,None,2005,ILPWKWPWWPWRR,Indolicidin,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =345 µg/ml,24-h,Colon,US_06875744_B2
+1965,None,2005,FAKALKALLKALKAL,FLAK 17 C,15,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 = µg/ml,24-h,Colon,US_06875744_B2
+1966,None,2005,FAKLLAKLAKAKL,FLAK 50H,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =345 µg/ml,24-h,Colon,US_06875744_B2
+1967,None,2005,FAKLLAKLAKLKL,FLAK 50G,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =145 µg/ml,24-h,Colon,US_06875744_B2
+1968,None,2005,FAKKLAKKLKKLAKKLAKKWKL,SHIVA DERIV P69 + KWKL,22,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =11 µg/ml,24-h,Colon,US_06875744_B2
+1969,None,2005,FAKKLAKKLKKLAKKLAK,Shiva 10(1-18 AC),18,Linear,L,None,Free,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =250 µg/ml,24-h,Colon,US_06875744_B2
+1970,None,2005,FAKKLAKKLKKLAKKLAKKWKL,SHIVA 10 PEPTIDE 71 + KWKL,22,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =82 µg/ml,24-h,Colon,US_06875744_B2
+1971,None,2005,KWKLFKKKTKLFKKFAKKLAKKL,CA(1-7) Shiva10(1-16),23,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =70 µg/ml,24-h,Colon,US_06875744_B2
+1972,None,2005,FAKKLAKKLAKAL,FLAK 54,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =340 µg/ml,24-h,Colon,US_06875744_B2
+1973,None,2005,FAKKLAKKLAKLL,FLAK 56,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =17 µg/ml,24-h,Colon,US_06875744_B2
+1974,None,2005,FAKKLAKKLAKAAL,FLAK 58,14,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =400 µg/ml,24-h,Colon,US_06875744_B2
+1975,None,2005,FAKKLAKKAKLAKKL,FLAK 72,15,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+1976,None,2005,FAKKLKKLAKKL,FLAK 75,12,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+1977,None,2005,KTKLFKKFAKKLAKKLKKLAKKL,SHIVA 10 (1-16) Ac,23,Linear,L,None,Free,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =35 µg/ml,24-h,Colon,US_06875744_B2
+1978,None,2005,KWKLFKKKTKLFKKFAKKLAKKL,CA(1-7) Shiva10(1-16)-COOH,23,Linear,L,None,Free,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =13 µg/ml,24-h,Colon,US_06875744_B2
+1979,None,2005,ILPWKWPWWPWRR,Indolocidin-ac,13,Linear,L,None,Free,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =30 µg/ml,24-h,Colon,US_06875744_B2
+1980,None,2005,FAKALAKLAKKLL,FLAK50B,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =51 µg/ml,24-h,Colon,US_06875744_B2
+1981,None,2005,FAKLLALALKLKL,FLAK50I,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,Not Available,24-h,Colon,US_06875744_B2
+1982,None,2005,FAKLLAKLAKAKA,FLAK50K,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+1983,None,2005,FAKLLAKLAKAKG,FLAK50L,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+1984,None,2005,FAKKLAKKLKKLAKKLAKLALALKALALKAL,Shiva-11,31,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =125 µg/ml,24-h,Colon,US_06875744_B2
+1985,None,2005,FAKKLAKKLKKLAKKLIGAVLKV,SHIVA 11[(1-16)ME(2-9]-COOH,23,Linear,L,None,Free,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =120 µg/ml,24-h,Colon,US_06875744_B2
+1986,None,2005,FAKLLAKALKLKL,FLAK 50N,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =170 µg/ml,24-h,Colon,US_06875744_B2
+1987,None,2005,FAKLLAKALKKAL,FLAK 50O,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =57 µg/ml,24-h,Colon,US_06875744_B2
+1988,None,2005,FAKLLAKALKKL,FLAK 50P,12,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =90 µg/ml,24-h,Colon,US_06875744_B2
+1989,None,2005,KWKLFKKALKKLKKALKKAL,CA(1-& HECATE(11/23),20,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =54 µg/ml,24-h,Colon,US_06875744_B2
+1990,None,2005,KIAKVALAKLGIGAVLKVLTTGL,PYL-ME,23,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+1991,None,2005,FAKKLAKLAKKL,FLAG26-D1,12,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =570 µg/ml,24-h,Colon,US_06875744_B2
+1992,None,2005,MPKEKVFLKIEKMGRNIRN,VISHNU3,19,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+1993,None,2005,GIGAVLKVLTTGLPALISWIKRKRQQ,MELITTIIN,26,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =23 µg/ml,24-h,Colon,US_06875744_B2
+1994,None,2005,FAKKLAKLAKKLAKAL,FLAK26-D2,16,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+1995,None,2005,FAKKLLAKALKL,FLAG26-D3,12,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =325 µg/ml,24-h,Colon,US_06875744_B2
+1996,None,2005,FAKFLAKFLKKAL,FLAK50 Q1,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =27 µg/ml,24-h,Colon,US_06875744_B2
+1997,None,2005,FAKLLFKALKKAL,FLAK50 Q2,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =800 µg/ml,24-h,Colon,US_06875744_B2
+1998,None,2005,FAKLLAKFLKKAL,FLAK50 Q3,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =180 µg/ml,24-h,Colon,US_06875744_B2
+1999,None,2005,FAKLLAKAFKKAL,FLAK50 Q4,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2000,None,2005,FAKLFAKAFKKAL,FLAK50 Q5,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2001,None,2005,FAKLLAKALKKFL,FLAK50 Q6,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =115 µg/ml,24-h,Colon,US_06875744_B2
+2002,None,2005,FAKLLAKALKKFAL,FLAK50 Q7,14,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =46 µg/ml,24-h,Colon,US_06875744_B2
+2003,None,2005,FAKLLAKLAKKFAL,FLAK50 Q8,14,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =630 µg/ml,24-h,Colon,US_06875744_B2
+2004,None,2005,FAKLFAKLAKKFAL,FLAK50 Q9,14,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =800 µg/ml,24-h,Colon,US_06875744_B2
+2005,None,2005,FKLAFKLAKKAFL,FLAK50 Q10,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =570 µg/ml,24-h,Colon,US_06875744_B2
+2006,None,2005,FAKLLAKLAK,FLAK50 T1,10,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2007,None,2005,FAKLLAKLAKKVL,FLAK50 T2,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =9 µg/ml,24-h,Colon,US_06875744_B2
+2008,None,2005,FAKLLAKLAKKIL,FLAK50 T3,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =125 µg/ml,24-h,Colon,US_06875744_B2
+2009,None,2005,FAKLLAKLAKKEL,FLAK50 T4,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2010,None,2005,FAKLLAKLAKKSL,FLAK50 T5,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =400 µg/ml,24-h,Colon,US_06875744_B2
+2011,None,2005,FAKLA,FLAK90,5,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =530 µg/ml,24-h,Colon,US_06875744_B2
+2012,None,2005,FAKLF,FLAK91,5,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =550 µg/ml,24-h,Colon,US_06875744_B2
+2013,None,2005,KAKLF,FLAK92,5,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2014,None,2005,KWKLF,FLAK93,5,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =555 µg/ml,24-h,Colon,US_06875744_B2
+2015,None,2005,FGKGIGKVGKKLL,FLAK50 Z1,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2016,None,2005,FAFGKGIGKVGKKLL,FLAK50 Z2,15,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2017,None,2005,FAKAIAKIAFGKGIGKVGKKLL,FLAK50 Z3,22,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =740 µg/ml,24-h,Colon,US_06875744_B2
+2018,None,2005,FAKLWAKLAFGKGIGKVGKKLL,FLAK50 Z4,22,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =80 µg/ml,24-h,Colon,US_06875744_B2
+2019,None,2005,FAKLWAKLAKKL,FLAK50 Z5,12,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =600 µg/ml,24-h,Colon,US_06875744_B2
+2020,None,2005,FAKGVGKVGKKAL,FLAK50 Z6,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2021,None,2005,FAFGKGIGKIGKKGL,FLAK50 Z7,15,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2022,None,2005,FAKIIAKIAKIAKKIL,FLAK50 Z8,16,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2023,None,2005,FAFAKIIAKIAKKII,FLAK50 Z9,15,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2024,None,2005,FALALKA,FLAK94,7,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =560 µg/ml,24-h,Colon,US_06875744_B2
+2025,None,2005,KWKLAKKALALL,FLAK93B,12,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =38 µg/ml,24-h,Colon,US_06875744_B2
+2026,None,2005,FAKIIAKIAKKI,FLAK50 Z10,12,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2027,None,2005,FALALKALKKAL,FLAK96,12,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =285 µg/ml,24-h,Colon,US_06875744_B2
+2028,None,2005,FALKALKK,FLAK97,8,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2029,None,2005,KYKKALKKLAKLL,FLAK98,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =380 µg/ml,24-h,Colon,US_06875744_B2
+2030,None,2005,FKRLAKIKVLRLAKIKR,FKRLA,17,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =185 µg/ml,24-h,Colon,US_06875744_B2
+2031,None,2005,FAKLAKKALAKLL,FLAK91B,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2032,None,2005,KAKLAKKALAKLL,FLAK92B,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2033,None,2005,KLALKLALKALKAAKLA,FLAK99,17,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =235 µg/ml,24-h,Colon,US_06875744_B2
+2034,None,2005,FAKLLAKLAKK,FLAK50T6,11,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2035,None,2005,FAKLLAKLAKKGL,FLAK50T7,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =740 µg/ml,24-h,Colon,US_06875744_B2
+2036,None,2005,FALKALKKLKKALKKAL,FLAK95,17,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =61 µg/ml,24-h,Colon,US_06875744_B2
+2037,None,2005,VAKLLAKLAKKVL,FLAK50T8,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =750 µg/ml,24-h,Colon,US_06875744_B2
+2038,None,2005,YAKLLAKLAKKAL,FLAK50T9,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2039,None,2005,KLLKLLLKLYKKLLKLL,FLAK100-CO2H,17,Linear,L,None,Free,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =345 µg/ml,24-h,Colon,US_06875744_B2
+2040,None,2005,FAVGLRAIKRALKKLRRGVRKVAKDL,FAGVL,26,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =530 µg/ml,24-h,Colon,US_06875744_B2
+2041,None,2005,KLAKKLAKLAKLAKAL,Modelin-5,16,Linear,L,None,Free,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =140 µg/ml,24-h,Colon,US_06875744_B2
+2042,None,2005,KLAKKLAKLAKLAKAL,Modelin-5-CO2H,16,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =370 µg/ml,24-h,Colon,US_06875744_B2
+2043,None,2005,KWKKLAKKW,FLAK120,9,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =240 µg/ml,24-h,Colon,US_06875744_B2
+2044,None,2005,FALAKALKKAL,FLAK121,11,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2045,None,2005,FALALKLAKKAL,FLAK96B,12,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =360 µg/ml,24-h,Colon,US_06875744_B2
+2046,None,2005,FALLKL,FLAK96G,6,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2047,None,2005,FALALKALKK,FLAK96F,10,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2048,None,2005,FALKALKKAL,FLAK96C,10,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2049,None,2005,FALLKALKKAL,FLAK96D,11,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =770 µg/ml,24-h,Colon,US_06875744_B2
+2050,None,2005,KFKKLAKKF,Modelin-8D,9,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2051,None,2005,KFKKLAKKW,Modelin-8E,9,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =70 µg/ml,24-h,Colon,US_06875744_B2
+2052,None,2005,FALALKALKKA,Flak 96H,11,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2053,None,2005,FALLKALLKKAL,Flak 96I,12,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =310 µg/ml,24-h,Colon,US_06875744_B2
+2054,None,2005,FALALKLAKKL,Flak 96J,11,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2055,None,2005,LKKLAKLALAF,Flak 96L,11,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2056,None,2005,VALALKALKKL,FLAK-120G,11,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =600 µg/ml,24-h,Colon,US_06875744_B2
+2057,None,2005,FALALKLKKL,FLAK-120D,10,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =870 µg/ml,24-h,Colon,US_06875744_B2
+2058,None,2005,FALALKAKKL,FLAK-120C,10,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2059,None,2005,FALA,FLAK-120B,4,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2060,None,2005,WALAL,FLAK-120F,5,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =440 µg/ml,24-h,Colon,US_06875744_B2
+2061,None,2005,GIGKFLHAAKKFAKAFVAEIMNS,Magainin2wisc,23,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =60 µg/ml,24-h,Colon,US_06875744_B2
+2062,None,2005,FAKKFAKKFKKFAKKFAKFAFAF,D2A21,23,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =76 µg/ml,24-h,Colon,US_06875744_B2
+2063,None,2005,KKVVFKVKFK,KSL-1,10,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =>1000 µg/ml,24-h,Colon,US_06875744_B2
+2064,None,2005,FKVKFKVKVK,KSL-7,10,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =530 µg/ml,24-h,Colon,US_06875744_B2
+2065,None,2005,LPKWKVFKKIEKVGRNIRNGIVKAGPAIAVLGEAKALG,LSB-37,38,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =240 µg/ml,24-h,Colon,US_06875744_B2
+2066,None,2005,FAKKLAKKLKKLAKKLAKLAKKL,Anubis-2,23,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,LD50 =73 µg/ml,24-h,Colon,US_06875744_B2
+2067,None,2005,FAKKLAKLAKKLAKLALAL,FLAK 17 CV,19,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,Not Available,24-h,Colon,US_06875744_B2
+2068,None,2005,VAKFLAKFLKKAL,FLAK50 Q1V,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,Not Available,24-h,Colon,US_06875744_B2
+2069,None,2005,VAKKFAKKFKKFAKKFAKFAFAF,D2A21V,23,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,Not Available,24-h,Colon,US_06875744_B2
+2070,None,2005,FAKKLAKLAKKLAKLALAL,FLAK 25 AM V,19,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,Not Available,24-h,Colon,US_06875744_B2
+2071,None,2005,FAKKLAKLAKKLLAL,FLAK43 AM V,15,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,Not Available,24-h,Colon,US_06875744_B2
+2072,None,2005,VAKLLAKALKKLL,FLAK50D V,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,Not Available,24-h,Colon,US_06875744_B2
+2073,None,2005,VALALKALKKALKKLKKALKKAL,Hecate AM V,23,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,Not Available,24-h,Colon,US_06875744_B2
+2074,None,2005,VALALKALKKALKKLKKALKKAL,Hecate AC V,23,Linear,L,None,Free,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,Not Available,24-h,Colon,US_06875744_B2
+2075,None,2005,FALALKALKKLAKKLKKLAKKAL,FLAK04 AM V,23,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,Not Available,24-h,Colon,US_06875744_B2
+2076,None,2005,FAKLLAKLAKKAA,FLAK50J,13,Linear,L,None,Amidation,Free,Anticancer,FLAK peptides,SW-480,Colon Cancer,MTT/MTS assay,Not Available,24-h,Colon,US_06875744_B2
+3102,22783018,2012,PDEDAINNALNKVCSTGRRQRSICKQLLKK,N29N,30,Linear,L,None,Free,Free,Antibacterial and Anticancer,Synthetic peptide,SW-480,Colon Cancer,Cell Viability assay,100% cell viability at 5 µM,24-h,Colon,None
+3103,22783018,2012,PDEDAINNALNKVCSTGRRQRSICKQLLKK,N29N,30,Linear,L,None,Free,Free,Antibacterial and Anticancer,Synthetic peptide,SW-480,Colon Cancer,Cell Viability assay,40% cell viability at 50 µM,24-h,Colon,None
+3108,22783018,2012,PDEDAINDALNKVCSTGRRQRSICKQLLKK,N29D,30,Linear,L,None,Free,Free,Antibacterial and Anticancer,Synthetic peptide,SW-480,Colon Cancer,Cell Viability assay,>100% cell viability at 5 µM,24-h,Colon,None
+3109,22783018,2012,PDEDAINDALNKVCSTGRRQRSICKQLLKK,N29D,30,Linear,L,None,Free,Free,Antibacterial and Anticancer,Synthetic peptide,SW-480,Colon Cancer,Cell Viability assay,60% cell viability at 50 µM,24-h,Colon,None
+3163,23301519,2013,RWRWRWRW,linear (RW)4-Dox,8,Linear,L,Doxorubicin (Dox) which is anthracycline attached with linker to CPP [W(RW)4 ],Free,Free,Anticancer,Doxorubicin (Dox) is a well-known anthracycline which has been conjugated to a CPP,HCT-116,Colon Cancer,MTT/MTS assay,21-61% antiproliferative activity at 1 µM,72 to 120-h,Colon,None
+3175,17559067,2007,fCYwO-CyLeu-Pen-TKKrPKPfQwFwL-CyLeu-KKLMYPTYLKKfQWAV-Aib-HL,Peptide 5,40,Linear,Mix,"Aib = = 1-amino-isobutyric acid, O= Ornithine, Pen=penicillamine, CyLeu=cycloleucine or 1-aminocyclopentane-1-carboxylic acid and disulfide bond between Cys and Pen",Amidation,Free,Anticancer,"Synthetic peptide of four designed analogs of vasoactive intestinal peptide, bombesin, substance P a",PTC,Colon Cancer,MTT/MTS assay,16.5 % inhibition of cell proliferation at 1 nM,24-h,Colon,None
+3176,17559067,2007,fCYwO-CyLeu-Pen-TKKrPKPfQwFwL-CyLeu-KKLMYPTYLKKfQWAV-Aib-HL,Peptide 5,40,Linear,Mix,"Aib = = 1-amino-isobutyric acid, O= Ornithine, Pen=penicillamine, CyLeu=cycloleucine or 1-aminocyclopentane-1-carboxylic acid and disulfide bond between Cys and Pen",Amidation,Free,Anticancer,"Synthetic peptide of four designed analogs of vasoactive intestinal peptide, bombesin, substance P a",PTC,Colon Cancer,MTT/MTS assay,14.2 % inhibition of cell proliferation at 10 nM,24-h,Colon,None
+3177,17559067,2007,fCYwO-CyLeu-Pen-TKKrPKPfQwFwL-CyLeu-KKLMYPTYLKKfQWAV-Aib-HL,Peptide 5,40,Linear,Mix,"Aib = = 1-amino-isobutyric acid, O= Ornithine, Pen=penicillamine, CyLeu=cycloleucine or 1-aminocyclopentane-1-carboxylic acid and disulfide bond between Cys and Pen",Amidation,Free,Anticancer,"Synthetic peptide of four designed analogs of vasoactive intestinal peptide, bombesin, substance P a",PTC,Colon Cancer,MTT/MTS assay,16.8 % inhibition of cell proliferation at 100 nM,72-h,Colon,None
+3178,17559067,2007,fCYwO-CyLeu-Pen-TKKrPKPfQwFwL-CyLeu-KKLMYPTYLKKfQWAV-Aib-HL,Peptide 5,40,Linear,Mix,"Aib = = 1-amino-isobutyric acid, O= Ornithine, Pen=penicillamine, CyLeu=cycloleucine or 1-aminocyclopentane-1-carboxylic acid and disulfide bond between Cys and Pen",Amidation,Free,Anticancer,"Synthetic peptide of four designed analogs of vasoactive intestinal peptide, bombesin, substance P a",PTC,Colon Cancer,MTT/MTS assay,21.7 % inhibition of cell proliferation at 1 µM,24-h,Colon,None
+3179,17559067,2007,fCYwO-CyLeu-Pen-TKKrPKPfQwFwL-CyLeu-KKLMYPTYLKKfQWAV-Aib-HL,Peptide 5,40,Linear,Mix,"Aib = = 1-amino-isobutyric acid, O= Ornithine, Pen=penicillamine, CyLeu=cycloleucine or 1-aminocyclopentane-1-carboxylic acid and disulfide bond between Cys and Pen",Amidation,Free,Anticancer,"Synthetic peptide of four designed analogs of vasoactive intestinal peptide, bombesin, substance P a",PTC,Colon Cancer,MTT/MTS assay,27.9 % inhibition of cell proliferation at 10 µM,24-h,Colon,None
+3187,17559067,2007,fCYwO-CyLeu-Pen-TKKrPKPfQwFwL-CyLeu-KKLMYPTYLKKfQWAV-Aib-HL,Peptide 5,40,Linear,Mix,"Aib = = 1-amino-isobutyric acid, O= Ornithine, Pen=penicillamine, CyLeu=cycloleucine or 1-aminocyclopentane-1-carboxylic acid and disulfide bond between Cys and Pen",Amidation,Free,Anticancer,"Synthetic peptide of four designed analogs of vasoactive intestinal peptide, bombesin, substance P a",PTC,Colon Cancer,MTT/MTS assay,ED50 >10 µM,24-h,Colon,None
+3228,22644847,2012,FLGWLFKWAWK,GA-W3,11,Linear,L,None,Amidation,Free,Antimicrobial,Undecapeptide analogues derived from Brevinin-1EMa,HCT-116,Colon Cancer,MTT/MTS assay,IC50 =24.63 µM,72-h,Colon,None
+3235,22644847,2012,FLWWLFKWAWK,GA-W4,11,Linear,L,None,Amidation,Free,Antimicrobial,Undecapeptide analogues derived from Brevinin-1EMa,HCT-116,Colon Cancer,MTT/MTS assay,IC50 =14.80 µM,72-h,Colon,None
+3242,22644847,2012,FLGWLFKWAKK,GA-K3,11,Linear,L,None,Amidation,Free,Antimicrobial,Undecapeptide analogues derived from Brevinin-1EMa,HCT-116,Colon Cancer,MTT/MTS assay,IC50 =27.00 µM,72-h,Colon,None
+3249,22644847,2012,FLKWLFKWAKK,GA-K4,11,Linear,L,None,Amidation,Free,Antimicrobial,Undecapeptide analogues derived from Brevinin-1EMa,HCT-116,Colon Cancer,MTT/MTS assay,IC50 =14.80 µM,72-h,Colon,None
+3254,22783018,2012,PDEDAINNALNKVCSTGRRQRSICKQLLKK,N29N,30,Linear,L,None,Free,Free,Antibacterial and Anticancer,Synthetic peptide,SW-480,Colon Cancer,Cell Viability assay,100% cell viability at 5 µM,NA,Colon,None
+3255,22783018,2012,PDEDAINNALNKVCSTGRRQRSICKQLLKK,N29N,30,Linear,L,None,Free,Free,Antibacterial and Anticancer,Synthetic peptide,SW-480,Colon Cancer,Cell Viability assay,40% cell viability at 50 µM,NA,Colon,None
+3260,22783018,2012,PDEDAINDALNKVCSTGRRQRSICKQLLKK,N29D,30,Linear,L,None,Free,Free,Antibacterial and Anticancer,Synthetic peptide,SW-480,Colon Cancer,Cell Viability assay,>100% cell viability at 5 µM,NA,Colon,None
+3261,22783018,2012,PDEDAINDALNKVCSTGRRQRSICKQLLKK,N29D,30,Linear,L,None,Free,Free,Antibacterial and Anticancer,Synthetic peptide,SW-480,Colon Cancer,Cell Viability assay,60% cell viability at 50 µM,NA,Colon,None
+3281,"19527490, 23533710",2009,FKCRRWQWRMKK,LfcinB,12,Linear,L,None,Free,Free,Anticancer,Bovine lactoferrin (Lf-B),HT-29,Colon Cancer,MTT/MTS assay,IC50 =148±8 µM,NA,Colon,None
+3289,19527490,2009,KAAKKAAKAAKKAAKAAKKAA,KW5,21,Linear,L,None,Free,Free,Anticancer,Synthetic peptide,HT-29,Colon Cancer,MTT/MTS assay,IC50 =55±14 µM,NA,Colon,None
+3305,21453492,2011,WKKW-Dip-KKWK,LTX-302,9,Linear,L,Dip = diphenylalanine,Amidation,Free,Antimicrobial,Synthetic peptide,HT-29,Colon Cancer,MTT/MTS assay,IC50 =75 ± 5 µM,30-Min,Colon,None
+3308,21453492,2011,KKWWKKW-Dip-K,LTX-315,9,Linear,L,Dip = diphenylalanine,Amidation,Free,Antimicrobial,Synthetic peptide,HT-29,Colon Cancer,MTT/MTS assay,IC50 =38 ± 3 µM,30-Min,Colon,None
+3311,21453492,2011,OOW-Dip-OOWWO,LTX-318,9,Linear,L,"Dip = diphenylalanine, O=ornithine",Amidation,Free,Antimicrobial,Synthetic peptide,HT-29,Colon Cancer,MTT/MTS assay,IC50 =248 ± 5 µM,30-Min,Colon,None
+3314,"21453492, 23533710",2011,FKCRRWQWRMKK,LfcinB,12,Linear,L,None,Free,Free,Antimicrobial and Anticancer,Bovine lactoferrin (Lf-B),HT-29,Colon Cancer,MTT/MTS assay,IC50 > 160 µM,30-Min,Colon,None
+3341,23533710,2013,FKCRRWQWRMKK,LfcinB,12,Linear,L,None,Amidation,Free,Antihypertensive and Antimicrobial and Antiviral and Antioxidant,Bovine milk,AZ-97,Colon Cancer,MTT/MTS assay,Inhibition at 0.1g/l,NA,Colon,None
+3342,23533710,2013,YPFPG,β-Casomorphins 5 f(60_64),4,Linear,L,None,Amidation,Free,"Immunomodulant, Antihypertensive, Antimicrobial,Antiviral, and Antioxidant",Bovine milk,AZ-97,Colon Cancer,MTT/MTS assay,Inhibition at 9-11g/l,NA,Colon,None
+3343,23533710,2013,RYLGYL,αs1-casein f(90_95),6,Linear,L,None,Amidation,Free,"Immunomodulant, Antihypertensive, Antimicrobial,Antiviral, and Antioxidant",Bovine milk,AZ-97,Colon Cancer,MTT/MTS assay,Inhibition at 12-15g/l,NA,Colon,None
+3344,23533710,2013,PPPEE,Caseinphosphopeptides,5,Linear,L,None,Amidation,Free,"Immunomodulant, Antihypertensive, Antimicrobial,Antiviral, and Antioxidant",Bovine milk,AZ-97,Colon Cancer,MTT/MTS assay,Inhibition at 24-28g/l,NA,Colon,None
+3362,None,2012,NHFTLKCPKTALTEPPTLAY,TG20,20,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,COLO-205,Colon Cancer,MTT/MTS assay,<5% cytotoxicity at 1 µM,24-h,Colon,WO_2012042540_A2
+3363,None,2012,NHFTLKCPKTALTEPPTLAY,TG20,20,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,COLO-205,Colon Cancer,MTT/MTS assay,<20% cytotoxicity at 10 µM,24-h,Colon,WO_2012042540_A2
+3364,None,2012,NHFTLKCPKTALTEPPTLAY,TG20,20,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,COLO-205,Colon Cancer,MTT/MTS assay,~15% cytotoxicity at 1 µM,48-h,Colon,WO2012042540A2
+3365,None,2012,NHFTLKCPKTALTEPPTLAY,TG20,20,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,COLO-205,Colon Cancer,MTT/MTS assay,>20% cytotoxicity at 10 µM,48-h,Colon,WO_2012042540_A2
+3366,None,2012,NHFTLKCPKTALTEPPTLAY,TG20,20,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,COLO-205,Colon Cancer,MTT/MTS assay,<5% cytotoxicity at 1 µM,72-h,Colon,WO_2012042540_A2
+3367,None,2012,NHFTLKCPKTALTEPPTLAY,TG20,20,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,COLO-205,Colon Cancer,MTT/MTS assay,<5% cytotoxicity at 10 µM,72-h,Colon,WO_2012042540_A2
+3368,None,2012,TAGIKLTVPIEKFPVTTQTFWG,TG23,22,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,COLO-205,Colon Cancer,MTT/MTS assay,<5% cytotoxicity at 1 µM,24-h,Colon,WO_2012042540_A2
+3369,None,2012,TAGIKLTVPIEKFPVTTQTFWG,TG23,22,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,COLO-205,Colon Cancer,MTT/MTS assay,~10% cytotoxicity at 10 µM,24-h,Colon,WO_2012042540_A2
+3370,None,2012,TAGIKLTVPIEKFPVTTQTFWG,TG23,22,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,COLO-205,Colon Cancer,MTT/MTS assay,10% cytotoxicity at 1 µM,48-h,Colon,WO_2012042540_A2
+3371,None,2012,TAGIKLTVPIEKFPVTTQTFWG,TG23,22,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,COLO-205,Colon Cancer,MTT/MTS assay,>10% cytotoxicity at 10 µM,48-h,Colon,WO_2012042540_A2
+3372,None,2012,TAGIKLTVPIEKFPVTTQTFWG,TG23,22,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,COLO-205,Colon Cancer,MTT/MTS assay,>10% cytotoxicity at 1 µM,72-h,Colon,WO2012042540A2
+3373,None,2012,TAGIKLTVPIEKFPVTTQTFWG,TG23,22,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,COLO-205,Colon Cancer,MTT/MTS assay,<5% cytotoxicity at 10 µM,72-h,Colon,WO_2012042540_A2
+3374,None,2012,GQVWEATATVNAIRGSVTPAVSQFNARTAD,MB30,30,Linear,L,None,Free,Free,Anticancer,Derived from the MPT63 secreted protein,COLO-205,Colon Cancer,MTT/MTS assay,<5% cytotoxicity at 1 µM,24-h,Colon,WO_2012042540_A2
+3375,None,2012,GQVWEATATVNAIRGSVTPAVSQFNARTAD,MB30,30,Linear,L,None,Free,Free,Anticancer,Derived from the MPT63 secreted protein,COLO-205,Colon Cancer,MTT/MTS assay,<5% cytotoxicity at 10 µM,24-h,Colon,WO_2012042540_A2
+3376,None,2012,GQVWEATATVNAIRGSVTPAVSQFNARTAD,MB30,30,Linear,L,None,Free,Free,Anticancer,Derived from the MPT63 secreted protein,COLO-205,Colon Cancer,MTT/MTS assay,>20% cytotoxicity at 1 µM,48-h,Colon,WO_2012042540_A2
+3377,None,2012,GQVWEATATVNAIRGSVTPAVSQFNARTAD,MB30,30,Linear,L,None,Free,Free,Anticancer,Derived from the MPT63 secreted protein,COLO-205,Colon Cancer,MTT/MTS assay,~35% cytotoxicity at 10 µM,48-h,Colon,WO_2012042540_A2
+3378,None,2012,GQVWEATATVNAIRGSVTPAVSQFNARTAD,MB30,30,Linear,L,None,Free,Free,Anticancer,Derived from the MPT63 secreted protein,COLO-205,Colon Cancer,MTT/MTS assay,<5% cytotoxicity at 1 µM,72-h,Colon,WO_2012042540_A2
+3379,None,2012,GQVWEATATVNAIRGSVTPAVSQFNARTAD,MB30,30,Linear,L,None,Free,Free,Anticancer,Derived from the MPT63 secreted protein,COLO-205,Colon Cancer,MTT/MTS assay,~20% cytotoxicity at 10 µM,72-h,Colon,WO_2012042540_A2
+3398,None,2012,NHFTLKCPKTALTEPPTLAY,TG20,20,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,HCT-116,Colon Cancer,MTT/MTS assay,20% cytotoxicity at 1 µM,24-h,Colon,WO_2012042540_A2
+3399,None,2012,NHFTLKCPKTALTEPPTLAY,TG20,20,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,HCT-116,Colon Cancer,MTT/MTS assay,10% cytotoxicity at 10 µM,24-h,Colon,WO_2012042540_A2
+3400,None,2012,NHFTLKCPKTALTEPPTLAY,TG20,20,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,HCT-116,Colon Cancer,MTT/MTS assay,<5% cytotoxicity at 1 µM,48-h,Colon,WO_2012042540_A2
+3401,None,2012,NHFTLKCPKTALTEPPTLAY,TG20,20,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,HCT-116,Colon Cancer,MTT/MTS assay,<3% cytotoxicity at 10 µM,48-h,Colon,WO_2012042540_A2
+3402,None,2012,NHFTLKCPKTALTEPPTLAY,TG20,20,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,HCT-116,Colon Cancer,MTT/MTS assay,<20% cytotoxicity at 1 µM,72-h,Colon,WO_2012042540_A2
+3403,None,2012,NHFTLKCPKTALTEPPTLAY,TG20,20,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,HCT-116,Colon Cancer,MTT/MTS assay,15% cytotoxicity at 10 µM,72-h,Colon,WO_2012042540_A2
+3404,None,2012,TAGIKLTVPIEKFPVTTQTFWG,TG23,22,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,HCT-116,Colon Cancer,MTT/MTS assay,<15% cytotoxicity at 1 µM,24-h,Colon,WO2012042540A2
+3405,None,2012,TAGIKLTVPIEKFPVTTQTFWG,TG23,22,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,HCT-116,Colon Cancer,MTT/MTS assay,15% cytotoxicity at 10 µM,24-h,Colon,WO_2012042540_A2
+3406,None,2012,TAGIKLTVPIEKFPVTTQTFWG,TG23,22,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,HCT-116,Colon Cancer,MTT/MTS assay,~5% cytotoxicity at 1 µM,48-h,Colon,WO_2012042540_A2
+3407,None,2012,TAGIKLTVPIEKFPVTTQTFWG,TG23,22,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,HCT-116,Colon Cancer,MTT/MTS assay,<5% cytotoxicity at 10 µM,48-h,Colon,WO_2012042540_A2
+3408,None,2012,TAGIKLTVPIEKFPVTTQTFWG,TG23,22,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,HCT-116,Colon Cancer,MTT/MTS assay,<5% cytotoxicity at 1 µM,72-h,Colon,WO_2012042540_A2
+3409,None,2012,TAGIKLTVPIEKFPVTTQTFWG,TG23,22,Linear,L,None,Free,Free,Anticancer,Derived from the SAG1 surface protein from the parasite Toxoplasma gondii,HCT-116,Colon Cancer,MTT/MTS assay,<5% cytotoxicity at 10 µM,72-h,Colon,WO_2012042540_A2
+3410,None,2012,GQVWEATATVNAIRGSVTPAVSQFNARTAD,MB30,30,Linear,L,None,Free,Free,Anticancer,Derived from the MPT63 secreted protein,HCT-116,Colon Cancer,MTT/MTS assay,>40% cytotoxicity at 1 µM,24-h,Colon,WO_2012042540_A2
+3411,None,2012,GQVWEATATVNAIRGSVTPAVSQFNARTAD,MB30,30,Linear,L,None,Free,Free,Anticancer,Derived from the MPT63 secreted protein,HCT-116,Colon Cancer,MTT/MTS assay,50% cytotoxicity at 10 µM,24-h,Colon,WO_2012042540_A2
+3412,None,2012,GQVWEATATVNAIRGSVTPAVSQFNARTAD,MB30,30,Linear,L,None,Free,Free,Anticancer,Derived from the MPT63 secreted protein,HCT-116,Colon Cancer,MTT/MTS assay,<20% cytotoxicity at 1 µM,48-h,Colon,WO2012042540A2
+3413,None,2012,GQVWEATATVNAIRGSVTPAVSQFNARTAD,MB30,30,Linear,L,None,Free,Free,Anticancer,Derived from the MPT63 secreted protein,HCT-116,Colon Cancer,MTT/MTS assay,>20% cytotoxicity at 10 µM,48-h,Colon,WO_2012042540_A2
+3414,None,2012,GQVWEATATVNAIRGSVTPAVSQFNARTAD,MB30,30,Linear,L,None,Free,Free,Anticancer,Derived from the MPT63 secreted protein,HCT-116,Colon Cancer,MTT/MTS assay,>30% cytotoxicity at 1 µM,72-h,Colon,WO_2012042540_A2
+3415,None,2012,GQVWEATATVNAIRGSVTPAVSQFNARTAD,MB30,30,Linear,L,None,Free,Free,Anticancer,Derived from the MPT63 secreted protein,HCT-116,Colon Cancer,MTT/MTS assay,~40% cytotoxicity at 10 µM,72-h,Colon,WO_2012042540_A2
+3519,22100226,2012,VNWKKILGKIIKVVK,LL-III/37,15,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 5±1 µM,48-h,Colon,None
+3520,22100226,2012,VNWKKILGKIIKVVK,LL-III,15,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 18±4 µM,48-h,Colon,None
+3521,22100226,2012,VNWKKILAKIIKVVK,LL-III/1,15,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 12± 3 µM,48-h,Colon,None
+3522,22100226,2012,NVWKKILGKIIKVVK,LL-III/2,15,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 11 µM,48-h,Colon,None
+3523,22100226,2012,VNWKKILKKIIKVVK,LL-III/3,15,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 40 µM,48-h,Colon,None
+3524,22100226,2012,VNWKKILGKIKKVVK,LL-III/4,15,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 40 µM,48-h,Colon,None
+3525,22100226,2012,VNWKKILPKIIKVVK,LL-III/6,15,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,Not tested,48-h,Colon,None
+3526,22100226,2012,VNWKKILGKIIKVVK,LL-III/8,15,Linear,L,None,Free,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,Not tested,48-h,Colon,None
+3527,22100226,2012,VNWKKILGKIIKVVK,LL-III/9,15,Linear,L,None,Methoxylation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 25± 5 µM,48-h,Colon,None
+3528,22100226,2012,KNWKKILGKIIKVVK,LL-III/10,15,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,Not tested,48-h,Colon,None
+3529,22100226,2012,VNWKKIILGKIIKVVK,LL-III/11,15,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 48 µM,48-h,Colon,None
+3530,22100226,2012,vnwkkilgkiikvvk,LL-III/12,15,Linear,D,None,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 20 µM,48-h,Colon,None
+3531,22100226,2012,VNFKKLLGKLLKVVK,LL-III/15,15,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 42 µM,48-h,Colon,None
+3532,22100226,2012,VN-Nal-KKLLGKLLKVVK,LL-III/16,15,Linear,L,Nal = 3-(1-naphthyl)alanine,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,Not tested,48-h,Colon,None
+3533,22100226,2012,VNWRRILGRIIRVVR,LL-III/17,15,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,Not tested,48-h,Colon,None
+3534,22100226,2012,KNWKKILKKIIKVVK,LL-III/18,15,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,Not tested,48-h,Colon,None
+3535,22100226,2012,VNWKK-Aib-LGK-Aib-IK-Aib-VK,LL-III/19,15,Linear,L,Aib = 1-amino-isobutyric acid,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 28 µM,48-h,Colon,None
+3536,22100226,2012,KNWKK-Aib-LKK-Aib-IK-Aib-VK,LL-III/22,15,Linear,L,Aib = 1-amino-isobutyric acid,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 100 µM,48-h,Colon,None
+3537,22100226,2012,VNWKKLLGKLLKVVK,LL-III/23,15,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 15 µM,48-h,Colon,None
+3538,22100226,2012,VNWOOILGOIIOVVO,LL-III/24,15,Linear,L,O = Ornithine,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 20 µM,48-h,Colon,None
+3539,22100226,2012,vnwkkllgkllkvvk,LL-III/25,15,Linear,D,None,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 20 µM,48-h,Colon,None
+3540,22100226,2012,VYWKKILGKIIKVVK,LL-III/26,15,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 30 µM,48-h,Colon,None
+3541,22100226,2012,VNWKKVLGKVVKVVK,LL-III/27,15,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 100 µM,48-h,Colon,None
+3542,22100226,2012,NKWKKILGKIIKVVK,LL-III/34,15,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 37 µM,48-h,Colon,None
+3543,22100226,2012,VNWKKILAKIIKVVK,LL-III/36,15,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,Not tested,48-h,Colon,None
+3544,22100226,2012,VNWKKILGKIIKVVK,LL-III/37,15,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Lasioglossin III and its analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 13 µM,48-h,Colon,None
+3602,22100226,2012,GFGMALKLLKKVL,MAC1,13,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Macropins and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 23±4 µM,48-h,Colon,None
+3603,22100226,2012,GTGLPMSERRKIMLMMR,MAC2,17,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Macropins and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 100 µM,48-h,Colon,None
+3604,22100226,2012,gfgmalkllkkvl,MAC1/1,13,Linear,D,None,Amidation,Free,Antimicrobial and Antifungal,Macropins and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 19±2 µM,48-h,Colon,None
+3605,22100226,2012,AFGMALKLLKKVL,MAC1/2,13,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Macropins and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 16 µM,48-h,Colon,None
+3606,22100226,2012,LFGMALKLLKKVL,MAC1/3,13,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Macropins and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 11±1 µM,48-h,Colon,None
+3607,22100226,2012,GFGMALKLLKKVL,MAC1/4,13,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Macropins and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 49±9 µM,48-h,Colon,None
+3608,22100226,2012,GFGMALKLLKKVL,MAC1/6,13,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Macropins and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 29±3 µM,48-h,Colon,None
+3609,22100226,2012,GFKMALKLLKKVL,MAC1/9,13,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Macropins and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 13±3 µM,48-h,Colon,None
+3610,22100226,2012,GFKMALKLLKKVL,MAC1/10,13,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Macropins and their analogs,SW,Colon Cancer,MTT/MTS assay,Not tested,48-h,Colon,None
+3611,22100226,2012,GFGMALKLLKKVL,MAC1/16,13,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Macropins and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 100 µM,48-h,Colon,None
+3612,22100226,2012,GFGMALKLLKKVL,MAC1/19,13,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Macropins and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 68±2 µM,48-h,Colon,None
+3613,22100226,2012,GFGMALOLLOOVL,MAC1/20,13,Linear,L,O = Ornithine,Amidation,Free,Antimicrobial and Antifungal,Macropins and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 35±4 µM,48-h,Colon,None
+3614,22100226,2012,GFGMALRLLRRVL,MAC1/21,13,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Macropins and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 17±2 µM,48-h,Colon,None
+3615,22100226,2012,GFGMALKL-(AC6C)-KKVL,MAC1/24,13,Linear,L,AC6C = cyclohexyl-1-carboxylic acid,Amidation,Free,Antimicrobial and Antifungal,Macropins and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 16±1 µM,48-h,Colon,None
+3616,22100226,2012,GFGMALK-(AC6C)-LKKVL,MAC1/25,13,Linear,L,AC6C = cyclohexyl-1-carboxylic acid,Amidation,Free,Antimicrobial and Antifungal,Macropins and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 14±1 µM,48-h,Colon,None
+3617,22100226,2012,GFGMA-(AC6C)-KLLKKVL,MAC1/26,13,Linear,L,AC6C = cyclohexyl-1-carboxylic acid,Amidation,Free,Antimicrobial and Antifungal,Macropins and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 18±1 µM,48-h,Colon,None
+3662,22100226,2012,GMWSKILGHLIR,HAL-1,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 44±8 µM,48-h,Colon,None
+3663,22100226,2012,gmwskilghlir,HAL-1/22,12,Linear,D,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 40 µM,48-h,Colon,None
+3664,22100226,2012,GMWSKILGHLIK,HAL-1/6,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 100 µM,48-h,Colon,None
+3665,22100226,2012,GMWSKILGHLKR,HAL-1/4,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,Not tested,48-h,Colon,None
+3666,22100226,2012,GMWSKILGKLIR,HAL-1/9,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 50 µM,48-h,Colon,None
+3667,22100226,2012,GMWSKILKHLIR,HAL-1/18,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 18±2 µM,48-h,Colon,None
+3668,22100226,2012,GMWKKILGHLIR,HAL-1/5,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 44±5 µM,48-h,Colon,None
+3669,22100226,2012,GKWSKILGHLIR,HAL-1/12,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 100 µM,48-h,Colon,None
+3670,22100226,2012,KMWSKILGHLIR,HAL-1/17,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 100 µM,48-h,Colon,None
+3671,22100226,2012,GMWKKILGKLIR,HAL-1/10,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 60 µM,48-h,Colon,None
+3672,22100226,2012,GKWSKILGKLIR,HAL-1/20,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 40 µM,48-h,Colon,None
+3673,22100226,2012,GKWKKILGHLIR,HAL-1/19,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 100 µM,48-h,Colon,None
+3674,22100226,2012,GKWKKILGKLIR,HAL-1/21,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 100 µM,48-h,Colon,None
+3675,22100226,2012,GMWSKILGHLIR,HAL-1/29,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,Not tested,48-h,Colon,None
+3676,22100226,2012,GMWSKLLGHLLR,HAL-1/15,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 40 µM,48-h,Colon,None
+3677,22100226,2012,GKWMSLLKHILK,HAL-2,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 35±3 µM,48-h,Colon,None
+3678,22100226,2012,gkwmsllkhilk,HAL-2/22,12,Linear,D,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 100 µM,48-h,Colon,None
+3679,22100226,2012,GKWMSLLKKILK,HAL-2/4,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 38±6 µM,48-h,Colon,None
+3680,22100226,2012,GKWMKLLKHILK,HAL-2/2,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 35±5 µM,48-h,Colon,None
+3681,22100226,2012,GKWKSLLKHILK,HAL-2/1,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 100 µM,48-h,Colon,None
+3682,22100226,2012,GKWMSLLKHILK,HAL-2/8,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 40 µM,48-h,Colon,None
+3683,22100226,2012,GKWMSLLKHIWK,HAL-2/18,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 40 µM,48-h,Colon,None
+3684,22100226,2012,GKWMSLLKHWLK,HAL-2/19,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 40 µM,48-h,Colon,None
+3685,22100226,2012,GKWMSLWKHILK,HAL-2/20,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 40 µM,48-h,Colon,None
+3686,22100226,2012,GKFMSLLKHILK,HAL-2/24,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 40 µM,48-h,Colon,None
+3687,22100226,2012,GKWMSFLKHILK,HAL-2/6,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 40 µM,48-h,Colon,None
+3688,22100226,2012,GKWMTLLKHILK,HAL-2/13,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 > 60 µM,48-h,Colon,None
+3689,22100226,2012,GKWLSLLKHILK,HAL-2/11,12,Linear,L,None,Amidation,Free,Antimicrobial and Antifungal,Halictines and their analogs,SW,Colon Cancer,MTT/MTS assay,IC50 = 40 µM,48-h,Colon,None
+3729,22644847,2012,FLGWLFKWAWK,GA-W3,11,Linear,L,None,Free,Free,Anticancer and Antimicrobial,Brevinin-1EMa,HCT-116,Colon Cancer,MTT/MTS assay,IC50= 24.63 µM,72-h,Colon,None
+3736,22644847,2012,FLWWLFKWAWK,GA-W4,11,Linear,L,None,Free,Free,Anticancer and Antimicrobial,Brevinin-1EMa,HCT-116,Colon Cancer,MTT/MTS assay,IC50= 14.80 µM,72-h,Colon,None
+3743,22644847,2012,FLGWLFKWAKK,GA-K3,11,Linear,L,None,Free,Free,Anticancer and Antimicrobial,Brevinin-1EMa,HCT-116,Colon Cancer,MTT/MTS assay,IC50= 27.00 µM,72-h,Colon,None
+3750,22644847,2012,FLKWLFKWAKK,GA-K4,11,Linear,L,None,Free,Free,Anticancer and Antimicrobial,Brevinin-1EMa,HCT-116,Colon Cancer,MTT/MTS assay,IC50= 14.8 µM,72-h,Colon,None
+3858,16722632,2006,YA*,8,2,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,9.8% inhibition at 10-6,12.81-Min,Colon,None
+3859,16722632,2006,YA*,8,2,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,1.6% inhibition at 10-5,12.81-Min,Colon,None
+3860,16722632,2006,YA*,8,2,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,5.4% inhibition at 10-4,12.81-Min,Colon,None
+3861,16722632,2006,YA*,8,2,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,26.5% inhibition at 10-3,12.81-Min,Colon,None
+3862,16722632,2006,YA*,8,2,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,12.9% inhibition at 10-6,12.81-Min,Colon,None
+3863,16722632,2006,YA*,8,2,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,16.5% inhibition at 10-5,12.81-Min,Colon,None
+3864,16722632,2006,YA*,8,2,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,28.1% inhibition at 10-4,12.81-Min,Colon,None
+3865,16722632,2006,YA*,8,2,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,58.2% inhibition at 10-3,12.81-Min,Colon,None
+3866,16722632,2006,YA*,8,2,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,3.5% inhibition at 10-6,12.81-Min,Colon,None
+3867,16722632,2006,YA*,8,2,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,22.7% inhibition at 10-5,12.81-Min,Colon,None
+3868,16722632,2006,YA*,8,2,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,18.9% inhibition at 10-4,12.81-Min,Colon,None
+3869,16722632,2006,YA*,8,2,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,26.4% inhibition at 10-3,12.81-Min,Colon,None
+3882,16722632,2006,YSA*,9,3,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,4.9% inhibition at 10-6,12.46-Min,Colon,None
+3883,16722632,2006,YSA*,9,3,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,8.9% inhibition at 10-5,12.46-Min,Colon,None
+3884,16722632,2006,YSA*,9,3,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,3.4% inhibition at 10-4,12.46-Min,Colon,None
+3885,16722632,2006,YSA*,9,3,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,20.8% inhibition at 10-3,12.46-Min,Colon,None
+3886,16722632,2006,YSA*,9,3,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,10.5% inhibition at 10-6,12.46-Min,Colon,None
+3887,16722632,2006,YSA*,9,3,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,21.9% inhibition at 10-5,12.46-Min,Colon,None
+3888,16722632,2006,YSA*,9,3,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,11.8% inhibition at 10-4,12.46-Min,Colon,None
+3889,16722632,2006,YSA*,9,3,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,17.9% inhibition at 10-3,12.46-Min,Colon,None
+3890,16722632,2006,YSA*,9,3,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,3.7% inhibition at 10-6,12.46-Min,Colon,None
+3891,16722632,2006,YSA*,9,3,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,16.5% inhibition at 10-5,12.46-Min,Colon,None
+3892,16722632,2006,YSA*,9,3,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,8.4% inhibition at 10-4,12.46-Min,Colon,None
+3893,16722632,2006,YSA*,9,3,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,14.5% inhibition at 10-3,12.46-Min,Colon,None
+3909,16722632,2006,YSA*,10,3,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,0.7% inhibition at 10-6,14.05-Min,Colon,None
+3910,16722632,2006,YSA*,10,3,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,8.3% inhibition at 10-5,14.05-Min,Colon,None
+3911,16722632,2006,YSA*,10,3,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,10.5% inhibition at 10-4,14.05-Min,Colon,None
+3912,16722632,2006,YSA*,10,3,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,21.8% inhibition at 10-3,14.05-Min,Colon,None
+3913,16722632,2006,YSA*,10,3,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,10.7% inhibition at 10-6,14.05-Min,Colon,None
+3914,16722632,2006,YSA*,10,3,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,10.0% inhibition at 10-5,14.05-Min,Colon,None
+3929,16722632,2006,YSA*G,15,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,5.4% inhibition at 10-6M,9.53-Min,Colon,None
+3930,16722632,2006,YSA*G,15,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,7.4% inhibition at 10-5M,9.53-Min,Colon,None
+3931,16722632,2006,YSA*G,15,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,9.5% inhibition at 10-4M,9.53-Min,Colon,None
+3932,16722632,2006,YSA*G,15,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,15.7% inhibition at 10-3M,9.53-Min,Colon,None
+3933,16722632,2006,YSA*G,15,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,13.6% inhibition at 10-6M,9.53-Min,Colon,None
+3934,16722632,2006,YSA*G,15,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,20.4% inhibition at 10-5M,9.53-Min,Colon,None
+3935,16722632,2006,YSA*G,15,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,14.4% inhibition at 10-4M,9.53-Min,Colon,None
+3936,16722632,2006,YSA*G,15,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,23.4% inhibition at 10-3M,9.53-Min,Colon,None
+3937,16722632,2006,YSA*G,15,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,2.2% inhibition at 10-6M,9.53-Min,Colon,None
+3938,16722632,2006,YSA*G,15,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,4.2% inhibition at 10-5M,9.53-Min,Colon,None
+3939,16722632,2006,YSA*G,15,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,6.4% inhibition at 10-4M,9.53-Min,Colon,None
+3940,16722632,2006,YSA*G,15,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,6.2% inhibition at 10-3M,9.53-Min,Colon,None
+3953,16722632,2006,YRA*G,16,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,7.6% inhibition at 10-6M,10.79-Min,Colon,None
+3954,16722632,2006,YRA*G,16,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,3.8% inhibition at 10-5M,10.79-Min,Colon,None
+3955,16722632,2006,YRA*G,16,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,12.4% inhibition at 10-4M,10.79-Min,Colon,None
+3956,16722632,2006,YRA*G,16,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,22.4% inhibition at 10-3M,10.79-Min,Colon,None
+3957,16722632,2006,YRA*G,16,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,17.0% inhibition at 10-6M,10.79-Min,Colon,None
+3958,16722632,2006,YRA*G,16,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,13.5% inhibition at 10-5M,10.79-Min,Colon,None
+3959,16722632,2006,YRA*G,16,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,13.5% inhibition at 10-4M,10.79-Min,Colon,None
+3960,16722632,2006,YRA*G,16,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,25.3% inhibition at 10-3M,10.79-Min,Colon,None
+3961,16722632,2006,YRA*G,16,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,8.1% inhibition at 10-6M,10.79-Min,Colon,None
+3962,16722632,2006,YRA*G,16,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,6.9% inhibition at 10-5M,10.79-Min,Colon,None
+3963,16722632,2006,YRA*G,16,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,8.1% inhibition at 10-4M,10.79-Min,Colon,None
+3964,16722632,2006,YRA*G,16,4,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,8.6% inhibition at 10-3M,10.79-Min,Colon,None
+3978,16722632,2006,YA*GFM,17,5,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,3.3% inhibition at 10-6M,26.70-Min,Colon,None
+3979,16722632,2006,YA*GFM,17,5,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,11.0% inhibition at 10-5M,26.70-Min,Colon,None
+3980,16722632,2006,YA*GFM,17,5,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,7.9% inhibition at 10-4M,26.70-Min,Colon,None
+3981,16722632,2006,YA*GFM,17,5,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,23.7% inhibition at 10-3M,26.70-Min,Colon,None
+3982,16722632,2006,YA*GFM,17,5,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,12.2% inhibition at 10-6M,26.70-Min,Colon,None
+3983,16722632,2006,YA*GFM,17,5,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,15.5% inhibition at 10-5M,26.70-Min,Colon,None
+3984,16722632,2006,YA*GFM,17,5,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,24.7% inhibition at 10-4M,26.70-Min,Colon,None
+3985,16722632,2006,YA*GFM,17,5,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,29.0% inhibition at 10-3M,26.70-Min,Colon,None
+3986,16722632,2006,YA*GFM,17,5,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,3.0% inhibition at 10-6M,26.70-Min,Colon,None
+3987,16722632,2006,YA*GFM,17,5,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,8.4% inhibition at 10-5M,26.70-Min,Colon,None
+3988,16722632,2006,YA*GFM,17,5,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,18.5% inhibition at 10-4M,26.70-Min,Colon,None
+3989,16722632,2006,YA*GFM,17,5,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,10.6% inhibition at 10-3M,26.70-Min,Colon,None
+4003,16722632,2006,YA*GFM,18,5,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,16.2% inhibition at 10-6M,23.03-Min,Colon,None
+4004,16722632,2006,YA*GFM,18,5,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,6.6% inhibition at 10-5M,23.03-Min,Colon,None
+4005,16722632,2006,YA*GFM,18,5,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,5.1% inhibition at 10-4M,23.03-Min,Colon,None
+4006,16722632,2006,YA*GFM,18,5,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,14.5% inhibition at 10-3M,23.03-Min,Colon,None
+4007,16722632,2006,YA*GFM,18,5,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,26.4% inhibition at 10-6M,23.03-Min,Colon,None
+4008,16722632,2006,YA*GFM,18,5,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,13.1% inhibition at 10-5M,23.03-Min,Colon,None
+4009,16722632,2006,YA*GFM,18,5,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,14.6% inhibition at 10-4M,23.03-Min,Colon,None
+4010,16722632,2006,YA*GFM,18,5,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,SW-620,Colon Cancer,MTT/MTS assay,38.4% inhibition at 10-3M,23.03-Min,Colon,None
+4011,16722632,2006,YA*GFM,18,5,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,17.7% inhibition at 10-6M,23.03-Min,Colon,None
+4012,16722632,2006,YA*GFM,18,5,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,10.9% inhibition at 10-5M,23.03-Min,Colon,None
+4013,16722632,2006,YA*GFM,18,5,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,12.1% inhibition at 10-4M,23.03-Min,Colon,None
+4014,16722632,2006,YA*GFM,18,5,Linear,L,"A* = Cα -dialkylated glycine (Aaa2,2 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,8.1% inhibition at 10-3M,23.03-Min,Colon,None
+4023,16722632,2006,YGGFMA*,23,6,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,HT-29,Colon Cancer,MTT/MTS assay,9.2% inhibition at 10-3M,31.92-Min,Colon,None
+4024,16722632,2006,YGGFMA*,23,6,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,11.08% inhibition at 10-5M,31.92-Min,Colon,None
+4025,16722632,2006,YGGFMA*,23,6,Linear,L,"A* = Cαα -dialkylated glycine (Aaa1,1 )",Free,Free,Antitumor,Synthetic Peptide,CaCo-2,Colon Cancer,MTT/MTS assay,47.0% inhibition at 10-3M,31.92-Min,Colon,None
+4032,"12631273, 9266696",2003,GLFDVIKKVASVIGGL,Citropin 1.1,16,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Amphibian skin secretions,Colon tumor cellline,Colon Cancer,Sulforhodamine B assay,IC50= 5 M,Not Available,Colon,None
+4041,"12631273, 9266696",2003,glfdvikkvasviggl,Citropin 1.1D,16,Linear,D,None,Amidation,Free,Antimicrobial and Anticancer,Amphibian skin secretions,Colon tumor cellline,Colon Cancer,Sulforhodamine B assay,IC50= 5 M,Not Available,Colon,None
+4050,"12631273, 9266696",2003,GLFAVIKKVASVIGGL,3,16,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Amphibian skin secretions,Colon tumor cellline,Colon Cancer,Sulforhodamine B assay,IC50= 6 M,Not Available,Colon,None
+4059,"12631273, 9266696",2003,GLFDVIKAVASVIGGL,5,16,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Amphibian skin secretions,Colon tumor cellline,Colon Cancer,Sulforhodamine B assay,IC50= 5 M,Not Available,Colon,None
+4068,"12631273, 9266696",2003,GLFDVIKKVAAVIGGL,7,16,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Amphibian skin secretions,Colon tumor cellline,Colon Cancer,Sulforhodamine B assay,IC50= 5 M,Not Available,Colon,None
+4077,"12631273, 9266696",2003,GLFDVIKKVASVIKGL,11,16,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Amphibian skin secretions,Colon tumor cellline,Colon Cancer,Sulforhodamine B assay,IC50= 5 M,Not Available,Colon,None
+4086,"12631273, 9266696",2003,GLFDVIKKVASVIKKL,13,16,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Amphibian skin secretions,Colon tumor cellline,Colon Cancer,Sulforhodamine B assay,IC50= 5 M,Not Available,Colon,None
+4095,"12631273, 9266696",2003,GLFDVIAKVASVIKKL,14,16,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Amphibian skin secretions,Colon tumor cellline,Colon Cancer,Sulforhodamine B assay,IC50= 5 M,Not Available,Colon,None
+4104,"12631273, 9266696",2003,GLFAVIKKVASVIKGL,15,16,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Amphibian skin secretions,Colon tumor cellline,Colon Cancer,Sulforhodamine B assay,IC50= 5 M,Not Available,Colon,None
+4113,"12631273, 9266696",2003,GLFAVIKKVASVIKKL,16,16,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Amphibian skin secretions,Colon tumor cellline,Colon Cancer,Sulforhodamine B assay,IC50= 5 M,Not Available,Colon,None
+4122,"12631273, 9266696",2003,GLFAVIKKVAAVIKKL,17,16,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Amphibian skin secretions,Colon tumor cellline,Colon Cancer,Sulforhodamine B assay,IC50= 5 M,Not Available,Colon,None
+4131,"12631273, 9266696",2003,GLFAVIKKVAAVIRRL,18,16,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Amphibian skin secretions,Colon tumor cellline,Colon Cancer,Sulforhodamine B assay,IC50= 5 M,Not Available,Colon,None
+4140,"12631273, 9266696",2003,GLFAVIKKVAKVIKKL,19,16,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Amphibian skin secretions,Colon tumor cellline,Colon Cancer,Sulforhodamine B assay,IC50= 5 M,Not Available,Colon,None
+4149,"12631273, 9266696",2003,GLFKVIKKVASVIGGL,22,16,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Amphibian skin secretions,Colon tumor cellline,Colon Cancer,Sulforhodamine B assay,IC50= 5 M,Not Available,Colon,None
+4158,"12631273, 9266696",2003,GLFKVIKKVAKVIKKL,23,16,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Amphibian skin secretions,Colon tumor cellline,Colon Cancer,Sulforhodamine B assay,IC50= 5 M,Not Available,Colon,None
+4167,"12631273, 9266696",2003,LGGIVSAVKKIVDFLG,retro,16,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Amphibian skin secretions,Colon tumor cellline,Colon Cancer,Sulforhodamine B assay,IC50= >10 µM,Not Available,Colon,None
+4495,22057278,2011,KAAKKWAKAAKKWAKAWKKAA,Z1,21,Linear,L,None,Free,Free,Anticancer,Synthetic,HT-29,Colon Cancer,MTT/MTS assay,EC50 >211 µM,Not Available,Colon,None
+4496,22057278,2011,KAAKKWAKAWKKAAKAWKKAA,Z2,21,Linear,L,None,Free,Free,Anticancer,Synthetic,HT-29,Colon Cancer,MTT/MTS assay,EC50 >211 µM,Not Available,Colon,None
+4497,22057278,2011,KAAKKAWKAWKKAAKAAWKKAA,Z3,21,Linear,L,None,Free,Free,Anticancer,Synthetic,HT-29,Colon Cancer,MTT/MTS assay,EC50 >211 µM,Not Available,Colon,None
+4498,22057278,2011,KAAKKAWKAAKKAAKWWKKAA,Z4,21,Linear,L,None,Free,Free,Anticancer,Synthetic,HT-29,Colon Cancer,MTT/MTS assay,EC50 =173 µM,Not Available,Colon,None
+4499,22057278,2011,KAAKKAWKWAKKAAKWAKKAA,Z5,21,Linear,L,None,Free,Free,Anticancer,Synthetic,HT-29,Colon Cancer,MTT/MTS assay,EC50 =67 µM,Not Available,Colon,None
+4500,22057278,2011,KWWKKAAKAAKKAAKAAKKWA,Z6,21,Linear,L,None,Free,Free,Anticancer,Synthetic,HT-29,Colon Cancer,MTT/MTS assay,EC50 =31 µM,Not Available,Colon,None
+4501,22057278,2011,KAAKKAWKAAKKAWKAAKKAA,Z7,21,Linear,L,None,Free,Free,Anticancer,Synthetic,HT-29,Colon Cancer,MTT/MTS assay,EC50 =21 µM,Not Available,Colon,None
+4502,22057278,2011,AWKKWAKAWKWAKAKWWAKAA,Z8,21,Linear,L,None,Free,Free,Anticancer,Synthetic,HT-29,Colon Cancer,MTT/MTS assay,EC50 =23 µM,Not Available,Colon,None
+4503,22057278,2011,AAWKWAWAKKWAKAKKWAKAA,Z9,21,Linear,L,None,Free,Free,Anticancer,Synthetic,HT-29,Colon Cancer,MTT/MTS assay,EC50 =13 µM,Not Available,Colon,None
+4504,22057278,2011,AAKKWAKAKWAKAKKWAKAA,Z10,21,Linear,L,None,Free,Free,Anticancer,Synthetic,HT-29,Colon Cancer,MTT/MTS assay,EC50 >211 µM,Not Available,Colon,None
+4578,21423613,2011,PRFWEYWLRLME,MIP,12,Linear,L,None,Free,Free,Antitumor,E3 ubiquitin-protein ligase,HCT-116-p53+/+,Colon Cancer,Immunoprecipitation assay,IC50 =0.01 µM,Not Available,Colon,None
+4579,21423613,2011,LTFEHYWAQLTS,DI,12,Linear,L,None,Free,Free,Antitumor,E3 ubiquitin-protein ligase,HCT-116-p53+/+,Colon Cancer,Immunoprecipitation assay,IC50 =0.29 µM,Not Available,Colon,None
+4580,21423613,2011,LTAEHYAAQATS,3A,12,Linear,L,None,Free,Free,Antitumor,E3 ubiquitin-protein ligase,HCT-116-p53+/+,Colon Cancer,Immunoprecipitation assay,IC50 >100 µM,Not Available,Colon,None
+4581,21423613,2011,QETFSDLWKLLP,P5317-28,12,Linear,L,None,Free,Free,Antitumor,E3 ubiquitin-protein ligase,HCT-116-p53+/+,Colon Cancer,Immunoprecipitation assay,IC50 =4.7 µM,Not Available,Colon,None
+4582,21423613,2011,PRAWEYWLRLME,MIP(F3A),12,Linear,L,None,Free,Free,Antitumor,E3 ubiquitin-protein ligase,HCT-116-p53+/+,Colon Cancer,Immunoprecipitation assay,IC50 =0.57 µM,Not Available,Colon,None
+4583,21423613,2011,PRFWEAWLRLME,MIP(Y6A),12,Linear,L,None,Free,Free,Antitumor,E3 ubiquitin-protein ligase,HCT-116-p53+/+,Colon Cancer,Immunoprecipitation assay,IC50 >100 µM,Not Available,Colon,None
+4584,21423613,2011,PRFWEYALRLME,MIP(W7A),12,Linear,L,None,Free,Free,Antitumor,E3 ubiquitin-protein ligase,HCT-116-p53+/+,Colon Cancer,Immunoprecipitation assay,IC50 >100 µM,Not Available,Colon,None
+4585,21423613,2011,PRFWEYWLALME,MIP(R9A),12,Linear,L,None,Free,Free,Antitumor,E3 ubiquitin-protein ligase,HCT-116-p53+/+,Colon Cancer,Immunoprecipitation assay,IC50 =0.02 µM,Not Available,Colon,None
+4586,21423613,2011,PRFWEYWLRAME,MIP(L10A),12,Linear,L,None,Free,Free,Antitumor,E3 ubiquitin-protein ligase,HCT-116-p53+/+,Colon Cancer,Immunoprecipitation assay,IC50 =1.14 µM,Not Available,Colon,None
+4587,21423613,2011,PRFWEYWLRLAE,MIP(M11A),12,Linear,L,None,Free,Free,Antitumor,E3 ubiquitin-protein ligase,HCT-116-p53+/+,Colon Cancer,Immunoprecipitation assay,IC50 =0.4 µM,Not Available,Colon,None
+4588,21423613,2011,PRFWEYWLRLME,MIP,12,Linear,L,None,Free,Free,Antitumor,E3 ubiquitin-protein ligase,HCT-116-p53+/+,Colon Cancer,Immunoprecipitation assay,IC50 =0.12 µM,Not Available,Colon,None
+4589,21423613,2011,LTFEHYWAQLTS,DI,12,Linear,L,None,Free,Free,Antitumor,E3 ubiquitin-protein ligase,HCT-116-p53+/+,Colon Cancer,Immunoprecipitation assay,IC50 =1.6 µM,Not Available,Colon,None
+4590,21423613,2011,LTAEHYAAQATS,3A,12,Linear,L,None,Free,Free,Antitumor,E3 ubiquitin-protein ligase,HCT-116-p53+/+,Colon Cancer,Immunoprecipitation assay,IC50 >100 µM,Not Available,Colon,None
+4591,21423613,2011,QETFSDLWKLLP,P5317-28,12,Linear,L,None,Free,Free,Antitumor,E3 ubiquitin-protein ligase,HCT-116-p53+/+,Colon Cancer,Immunoprecipitation assay,IC50 =30 µM,Not Available,Colon,None
+5056,24714081,2014,TKPRKTKPRKTKPRKTKPR,T Peptide,19,Linear,L,None,Free,Free,Anticancer,Tuftsin derivative,HT-29,Colon Cancer,MTT/MTS assay,70% maximum inhibitory rate at 8 mg/kg,48-h,Colon,None
+5063,24492520,2014,ELLVDLL,Gageostatin A,7,Linear,L,None,Free,3-beta-hydroxy-11-methyltridecanoic acid,Antimicrobial,Bacillus subtilis,HCT-15,Colon Cancer,Sulforhodamine B assay,GI50 = 11.4 µg/mL,48-h,Colon,None
+5069,24492520,2014,ELLVDLL,Gageostatin B,7,Linear,L,None,Free,"3-beta-hydroxy-9,11-dimethyltridecanoic acid",Antimicrobial,Bacillus subtilis,HCT-15,Colon Cancer,Sulforhodamine B assay,GI50 = 18.3 µg/mL,48-h,Colon,None
+5075,24492520,2014,ELLVDLL,Gageostatin C,7,Linear,L,None,Free,"(E)-7,9-dimethylundec-2-enoic acid",Antimicrobial,Bacillus subtilis,HCT-15,Colon Cancer,Sulforhodamine B assay,GI50 = 23.2 µg/mL,48-h,Colon,None
+5553,28483698,2017,FRRFFKWFRRFFKFF,FR-15,15,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Synthetic,DLD-1,Colon Cancer,MTT assay,IC50 = 6.7 μM,24-h,Colon,None
+5557,28483698,2017,FRRPFKWFRRFFKFF,FR4P,15,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Analogue of FR-15,DLD-1,Colon Cancer,MTT assay,IC50 = 9.4 μM,24-h,Colon,None
+5561,28483698,2017,FRRFFKWPRRFFKFF,FR8P,15,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Analogue of FR-15,DLD-1,Colon Cancer,MTT assay,IC50 = 10.8 μM,24-h,Colon,None
+5565,28483698,2017,FRRFFKWFRRPFKFF,FR11P,15,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Analogue of FR-15,DLD-1,Colon Cancer,MTT assay,IC50 = 12.9 μM,24-h,Colon,None
+5569,28483698,2017,FRRPFKWPRRFFKFF,"FR4,8P",15,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Analogue of FR-15,DLD-1,Colon Cancer,MTT assay,IC50 = 15.3 μM,24-h,Colon,None
+5573,28483698,2017,FRRFFKWPRRPFKFF,"FR8,11P",15,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Analogue of FR-15,DLD-1,Colon Cancer,MTT assay,IC50 = 22 μM,24-h,Colon,None
+5740,27218227,2017,HVLSRAPR,HR,8,Linear,L,None,Free,Free,Anticancer,Fraction identified from Tr1,HT-29,Colon Cancer,MTT assay,IC50 = 99.88 μg/mL,48-h,Colon,None
+5814,29515106,2018,EFLDCFQKF,Peptide-327,9,Linear,L,None,Free,Free,Anticancer,EGFR binding region for Eps8 (aa 289–362),Colo-320,Colon Cancer,CCK-8 assay,EC50 = 83.10 ± 1.41 μM,12-h,Colon,None
+5815,29515106,2018,EFLDCFQKF,Peptide-327,9,Linear,L,None,Free,Free,Anticancer,EGFR binding region for Eps8 (aa 289–362),HT-29,Colon Cancer,CCK-8 assay,EC50 = 96.00 ± 9.06 μM,12-h,Colon,None
+5820,29515106,2018,RKKRRQRRREFLDCFQKF,TAT-327,18,Linear,L,None,Free,Free,Anticancer,Peptide-327,Colo-320,Colon Cancer,CCK-8 assay,EC50 = 68.40 ± 0.42 μM,12-h,Colon,None
+5821,29515106,2018,RKKRRQRRREFLDCFQKF,TAT-327,18,Linear,L,None,Free,Free,Anticancer,Peptide-327,HT-29,Colon Cancer,CCK-8 assay,EC50 = 74.08 ± 0.63 μM,12-h,Colon,None
+5929,29993185,2018,ADAPGNYPLDARGKSYYC,Peptide4 Gonearrestide,18,Linear,L,None,Free,Free,Anticancer,Androctonus australis,HCT-116,Colon Cancer,MTT assay,Not Available,24-h,Colon,None
+5930,29993185,2018,ADAPGNYPLDARGKSYYC,Peptide4 Gonearrestide,18,Linear,L,None,Free,Free,Anticancer,Androctonus australis,DLD-1,Colon Cancer,MTT assay,Not Available,24-h,Colon,None
+5931,29993185,2018,ADAPGNYPLDARGKSYYC,Peptide4 Gonearrestide,18,Linear,L,None,Free,Free,Anticancer,Androctonus australis,HKe-3,Colon Cancer,MTT assay,Not Available,24-h,Colon,None
+5932,29993185,2018,ADAPGNYPLDARGKSYYC,Peptide4 Gonearrestide,18,Linear,L,None,Free,Free,Anticancer,Androctonus australis,Dks8,Colon Cancer,MTT assay,Not Available,24-h,Colon,None
+5934,29993185,2018,KLSAIISKIRDE,Peptide6 Gonearrestide,12,Linear,L,None,Free,Free,Anticancer,Androctonus australis,HCT-116,Colon Cancer,MTT assay,Not Available,24-h,Colon,None
+5935,29993185,2018,KLSAIISKIRDE,Peptide6 Gonearrestide,12,Linear,L,None,Free,Free,Anticancer,Androctonus australis,DLD-1,Colon Cancer,MTT assay,Not Available,24-h,Colon,None
+5936,29993185,2018,KLSAIISKIRDE,Peptide6 Gonearrestide,12,Linear,L,None,Free,Free,Anticancer,Androctonus australis,HKe-3,Colon Cancer,MTT assay,Not Available,24-h,Colon,None
+5937,29993185,2018,KLSAIISKIRDE,Peptide6 Gonearrestide,12,Linear,L,None,Free,Free,Anticancer,Androctonus australis,Dks8,Colon Cancer,MTT assay,Not Available,24-h,Colon,None
+5939,29993185,2018,NDADKDEMQSVYRGKANDDNSRGSKTNHRF,Peptide10 Gonearrestide,30,Linear,L,None,Free,Free,Anticancer,Androctonus mauritanicus,HCT-116,Colon Cancer,MTT assay,Not Available,24-h,Colon,None
+5940,29993185,2018,NDADKDEMQSVYRGKANDDNSRGSKTNHRF,Peptide10 Gonearrestide,30,Linear,L,None,Free,Free,Anticancer,Androctonus mauritanicus,DLD-1,Colon Cancer,MTT assay,Not Available,24-h,Colon,None
+5941,29993185,2018,NDADKDEMQSVYRGKANDDNSRGSKTNHRF,Peptide10 Gonearrestide,30,Linear,L,None,Free,Free,Anticancer,Androctonus mauritanicus,HKe-3,Colon Cancer,MTT assay,Not Available,24-h,Colon,None
+5942,29993185,2018,NDADKDEMQSVYRGKANDDNSRGSKTNHRF,Peptide10 Gonearrestide,30,Linear,L,None,Free,Free,Anticancer,Androctonus mauritanicus,Dks8,Colon Cancer,MTT assay,Not Available,24-h,Colon,None
+5944,29993185,2018,WCYKLPDRVSIKEKGRCN,Peptide13 Gonearrestide,18,Linear,L,None,Amidation,Free,Anticancer,Androctonus mauritanicus,HCT-116,Colon Cancer,MTT assay,IC50 ~ 100 μM/L,24-h,Colon,None
+5945,29993185,2018,WCYKLPDRVSIKEKGRCN,Peptide13 Gonearrestide,18,Linear,L,None,Amidation,Free,Anticancer,Androctonus mauritanicus,DLD-1,Colon Cancer,MTT assay,Not Available,24-h,Colon,None
+5946,29993185,2018,WCYKLPDRVSIKEKGRCN,Peptide13 Gonearrestide,18,Linear,L,None,Amidation,Free,Anticancer,Androctonus mauritanicus,HKe-3,Colon Cancer,MTT assay,Not Available,24-h,Colon,None
+5947,29993185,2018,WCYKLPDRVSIKEKGRCN,Peptide13 Gonearrestide,18,Linear,L,None,Amidation,Free,Anticancer,Androctonus mauritanicus,Dks8,Colon Cancer,MTT assay,Not Available,24-h,Colon,None
+5985,30031283,2018,NGVQPKYKWWKWWKKWW,KT2,17,Linear,L,None,Amidation,Free,Antimicrobial,Crocodylus siamensis,HCT-116,Colon Cancer,MTT assay,IC50 =  90.25 μg/mL,24-h,Colon,None
+5986,30031283,2018,NGVQPKYRWWRWWRRWW,RT2,17,Linear,L,None,Amidation,Free,Antimicrobial,Crocodylus siamensis,HCT-116,Colon Cancer,MTT assay,IC50 =  90.25 μg/mL,24-h,Colon,None
+6049,30789695,2019,IKLSKETKKNLKKVLKGAIKGAIAVAKMV,"[P5K,D9K]Hymenochirin-1B",29,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Synthetic,HCT-116,Colon Cancer,MTT assay,IC50 = 4.93 ± 0.51 μM,48-h,Colon,None
+6052,30789695,2019,IKLSPETKKNLKKVLKGAIKGAIAVAKMV,[D9K]Hymenochirin-1B,29,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Synthetic,HCT-116,Colon Cancer,MTT assay,IC50 = 6.50 ± 0.32 μM,48-h,Colon,None
+6055,30789695,2019,IKLSKETKDNLKKVLKGAIKGAIAVAKMV,[P5K]Hymenochirin-1B,29,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Synthetic,HCT-116,Colon Cancer,MTT assay,IC50 = 8.09 ± 0.40 μM,48-h,Colon,None
+6085,30789695,2019,IKLSKKTKKNLKKVLKGAIKGAIAVAKMV,H-14,29,Linear,L,None,Amidation,Free,Anticancer,Synthetic,HCT-116,Colon Cancer,MTT assay,IC50 = 1.841 ± 0.34 μM,48-h,Colon,None
+6097,30789695,2019,IKLSPETKDNLKKVLKGAIKGAIAVAKMV,H-0,29,Linear,L,None,Amidation,Free,Antimicrobial and Anticancer,Hymenochirus boettgeri,HCT-116,Colon Cancer,MTT assay,IC50 = 12.76 ± 0.43 μM,48-h,Colon,None
+6212,31234333,2019,GLFSVVKGVLKGVGKNVSGSLLDQLKCKISGGC,LFB,33,Linear,L,None,Free,Free,Antimicrobial,Limnonectes fujianensi,HCT-116,Colon Cancer,MTT assay,IC50 = 2.02 µM,24-h,Colon,None
+6214,30851450,2019,SPRVRRRYGRPFGGRPFVGGQFGGRPGCVCIRSPCPCANYG,Ss-arasin,41,Linear,L,None,Free,Free,Antimicrobial,Scylla serrata,HT-29,Colon Cancer,MTT assay,IC50 = 2.9 µM,24-h,Colon,None
+6238,32641940,2019,GLTSK,C1 mother,5,Linear,L,None,Free,Free,Anticancer,Common bean fractions,HT-29,Colon Cancer,MTT assay,93.01 ± 1.01 inhibition % at 10 µM,48-h,Colon,None
+6241,32641940,2019,GEGSGA,C2 mother,6,Linear,L,None,Free,Free,Anticancer,Common bean fractions,HT-29,Colon Cancer,MTT assay,92.79 ± 0.54 inhibition % at 10 µM,48-h,Colon,None
+6244,32641940,2019,GLTSK,C1Triazole,5,Linear,L,None,Free,"4-(4-phenyl-1H-1, 2, 3-triazol-1-yl) benzoic acid",Anticancer,Synthetic,HT-29,Colon Cancer,MTT assay,92.8 ± 0.16 inhibition % at 10 µM,48-h,Colon,None
+6247,32641940,2019,GEGSGA,C2Triazole,6,Linear,L,None,Free,"4-(4-phenyl-1H-1, 2, 3-triazol-1-yl) benzoic acid",Anticancer,Synthetic,HT-29,Colon Cancer,MTT assay,92.56 ± 0.28 inhibition % at 10 µM,48-h,Colon,None
+6498,32462055,2020,LRKLRKRLLRDWLKAFYDKVAEKLKEAF,AEM-28,28,Linear,L,None,Free,Free,Anti-inflammatory and Anticancer,Synthetic,ID8,Colon Cancer,MTS assay,~60% cell viability at 10 μg/mL,24-h,Colon,None
+6501,32462055,2020,LRKLRKRLLRDWLKAFYDKVAEKLKEAF,AEM-28,28,Linear,L,None,Free,Free,Anti-inflammatory and Anticancer,Synthetic,CaCo-2,Colon Cancer,MTS assay,~70% cell viability at 10 μg/mL,24-h,Colon,None
+6504,32462055,2020,Aha-LRRLRRRLLRDWLKAFYDKVAEKLKEAF,AEM-28–2,28,Linear,L,Aha= α-aminohenoic acid,Amidation,Acetylation,Anti-inflammatory and Anticancer,Synthetic,ID8,Colon Cancer,MTS assay,~20% cell viability at 10 μg/mL,24-h,Colon,None
+6507,32462055,2020,Aha-LRRLRRRLLRDWLKAFYDKVAEKLKEAF,AEM-28–2,28,Linear,L,Aha= α-aminohenoic acid,Amidation,Acetylation,Anti-inflammatory and Anticancer,Synthetic,CaCo-2,Colon Cancer,MTS assay,~60% cell viability at 10 μg/mL,24-h,Colon,None
+6534,33237335,2020,MSSSNCANVCQTENFPGGECKAEGATRKCFCKNC,MzDef,34,Linear,L,None,Free,Free,Antimicrobial and Anticancer,Zea mays L.,HCT-116,Colon Cancer,MTT assay,IC50 = 29.85 µg/mL,24-h,Colon,None
+6546,32256172,2020,KAIGLVIPEIDGKLDGGAQRV,NMANF2,21,Linear,L,None,Free,Free,Anticancer,Staphylococcus hominis strain MANF2,HT-29,Colon Cancer,MTT assay,IC50 = 48.9 µg/mL,NA,Colon,None
+6580,31947688,2020,SKWQHQQDSCRKQLQGVNLTPCEKHIMEKIQGRDDDDDDDDDD,Lunasin,44,Linear,L,None,Free,Free,Anticancer,Soybean,HCT-116,Colon Cancer,MTT assay,IC50 = 107.5 ± 1.9 μM,72-h,Colon,None
+6642,32971958,2020,VGAlAvVvWlWlWlW,Gramicidin A,15,Linear,Mix,None,NCH2CH2OH,Formylation,Antimicrobial,Aneurinibacillus migulanus,HT-29,Colon Cancer,MTT assay,IC50 = 9.78 μM,48-h,Colon,None
+6645,32716104,2020,YFYPKDFTPGCT,YT12,12,Linear,L,None,Free,Free,Anticancer,Arthrospira platensis,HT-29,Colon Cancer,MTT assay,IC50 = 12.5 μM,NA,Colon,None
+6647,33029595,2020,LLKKLLKKLLKKLLKK,(LLKK)4 linear peptide,16,Linear,L,None,Amidation,Free,Antimicrobial,Synthetic,HCT-116,Colon Cancer,MTT assay,Cell Viability (%) ~ 10.73 ± 2.4 at 30 µg/mL,48-h,Colon,None
+6651,33029595,2020,[LLKKLLKK]2kC,2-arm branched peptide,18,Linear,L,Branched amide bond in the branching point was formed by the primary amine of lysine.,Free,Free,Antimicrobial,Synthetic,HCT-116,Colon Cancer,MTT assay,Cell Viability (%) ~ 78.6 ± 10.5  at 30 µg/mL,48-h,Colon,None
+6655,33029595,2020,{[LLKKLLKK]2kC}2,4-arm branched peptide,36,Linear,L,thermal oxidation between the thiol group of cysteine residue in the two 2-arm branched,Free,Free,Antimicrobial,Synthetic,HCT-116,Colon Cancer,MTT assay,Cell Viability (%) ~ 67.6 ± 5.8 at 30 µg/mL,48-h,Colon,None
+6695,32812694,2021,FALGAVTKVLPKLFCLITRKC,Brevinin-1H,21,Linear,L,None,Free,Free,Antimicrobial,Amolops hainanensis,HCT-116,Colon Cancer,MTT assay,IC50 = 2.599 µM,24-h,Colon,None
+6699,32812694,2021,FALGAVTCLIRTKCKVLPKLF,Brevinin-1Ha,21,Linear,L,None,Free,Free,Antimicrobial,Analogue of Brevinin-1H,HCT-116,Colon Cancer,MTT assay,IC50 = 342.8 µM,24-h,Colon,None
+6703,32812694,2021,FALGAVTKVLYKLFCLITRKC,Brevinin-1HY,21,Linear,L,None,Free,Free,Antimicrobial,Analogue of Brevinin-1H,HCT-116,Colon Cancer,MTT assay,IC50 = 3.583 µM,24-h,Colon,None
+6708,34564615,2021,FPLIASLAGNVVPKIFCKITKRC,B1OS,23,Linear,L,None,Free,Free,Antimicrobial,Odorrana schmackeri,HCT-116,Colon Cancer,MTT assay,IC50 = 33.69 µM,24-h,Colon,None
+6713,34564615,2021,FLPLIASLAGNVVPKIFCKITKRC,B1OS-L,24,Linear,L,None,Free,Free,Antimicrobial,B-1OS,HCT-116,Colon Cancer,MTT assay,IC50 = 11.03 µM,24-h,Colon,None
+6718,34564615,2021,FlPLIASLAGNVVPKIFCKITKRC,B1OS-D-L,24,Linear,Mix,None,Free,Free,Antimicrobial,B-1OS,HCT-116,Colon Cancer,MTT assay,IC50 = 3.721 µM,24-h,Colon,None
+6753,34073203,2021,GIFDVVKGVLKGVGKNVAGSLLEQLKCKLSGGC,Brevinin-2DYd,33,Linear,L,None,Free,Free,Anticancer,Rana dybowskii,LoVo,Colon Cancer,MTT assay,IC50 = 8.05 µg/ml,24-h,Colon,None
+6757,34073203,2021,GILSSIKGVAKGVAKNVAAQLLDTLKCKITGC,Ranatuerin-2Lb,32,Linear,L,None,Free,Free,Anticancer,Rana luteiventris,LoVo,Colon Cancer,MTT assay,IC50 = 59.78 µM,24-h,Colon,None
+6761,34073203,2021,GVLGAVKDLLIGAGKSAAQSVLKTLSCKLSNDC,Odorranain-C1,33,Linear,L,None,Free,Free,Anticancer,Odorrana grahami,LoVo,Colon Cancer,MTT assay,IC50 = 55.22 µM,24-h,Colon,None
+6765,34073203,2021,GLFDVVKGVLKGAGKNVAGSLLEQLKCKLSGGC,Brevinin-2DYb,33,Linear,L,None,Free,Free,Anticancer,Rana dybowskii,LoVo,Colon Cancer,MTT assay,IC50 = 35.05 µM,24-h,Colon,None
+6767,33462944,2021,FKEHGY,GP-1,6,Linear,L,None,Amidation,Free,Anticancer,Ginseng Leaf Peptide,CaCo-2,Colon Cancer,MTT assay,IC50 = 104 ± 11.3 µM,48-h,Colon,None
+6768,33462944,2021,FKEHGY,GP-1,6,Linear,L,None,Amidation,Free,Anticancer,Ginseng Leaf Peptide,Colo-320,Colon Cancer,MTT assay,IC50 = 111 ± 12.0 µM,48-h,Colon,None
+6770,33462944,2021,EGFHL,GP-2,5,Linear,L,None,Amidation,Free,Anticancer,Ginseng Leaf Peptide,CaCo-2,Colon Cancer,MTT assay,IC50 = 154 ± 15.8 µM,48-h,Colon,None
+6771,33462944,2021,EGFHL,GP-2,5,Linear,L,None,Amidation,Free,Anticancer,Ginseng Leaf Peptide,Colo-320,Colon Cancer,MTT assay,IC50 = 142 ± 14.9 µM,48-h,Colon,None
+6773,33462944,2021,FSHTYV,GP-3,6,Linear,L,None,Amidation,Free,Anticancer,Ginseng Leaf Peptide,CaCo-2,Colon Cancer,MTT assay,IC50 = 162 ± 17.1 µM,48-h,Colon,None
+6774,33462944,2021,FSHTYV,GP-3,6,Linear,L,None,Amidation,Free,Anticancer,Ginseng Leaf Peptide,Colo-320,Colon Cancer,MTT assay,IC50 = 149 ± 15.2 µM,48-h,Colon,None
+6782,34073203,2021,GLFLDTLKGAAKDVAGKLEGLKCKITGCKLP,Ranatuerin-2,31,Linear,L,None,Free,Free,Anticancer,Rana catesbeiana,LoVo,Colon Cancer,MTT assay,IC50 = 128 µM,24-h,Colon,None
+6783,34449322,2021,PMPVSQECFETLRGHERILSILRHQNLLKELQDLALQGAKERAHQQ,rhCGA-N46,46,Linear,L,None,Free,Free,Antimicrobial,Found in neurons and endocrine cells in Humans,HCT-116,Colon Cancer,MTT assay,IC50 = 1.997 µg/ml,24-h,Colon,None
+6803,34117917,2021,FKKLKKLFSKLWNWK,HPRP-A1,15,Linear,L,None,Amidation,Acetylation,Anticancer,N-terminal region of Helicobacter pylori ribosomal protein L1,HT-29,Colon Cancer,MTT assay,IC50 ~ 0.5 µg/mL,24-h,Colon,None
+6815,33244888,2021,ILGTILGLLKGL,Protonectin,12,Linear,L,None,Amidation,Free,Antimicrobial,Parachartergus fraternus,HCT-116,Colon Cancer,Resazurin dye assay,CC50 = 8.0 ± 0.5 µM,24-h,Colon,None
+6817,33244888,2021,IFGTILGFLKGL,Protonectin-F,12,Linear,L,None,Amidation,Free,Antimicrobial,Protonoectin,HCT-116,Colon Cancer,Resazurin dye assay,CC50 = 9.8 ± 1.2 µM,24-h,Colon,None
+6831,32381104,2021,YGRKKRRQRRRKDHRISTFKNWPFLEGCACTPERM,Sur-X,35,Linear,L,None,Free,TAT Peptide,Anticancer,Synthetic,HCT-116,Colon Cancer,MTT assay,20% cell viability at at 20 μM,24-h,Colon,None
+6832,32381104,2021,YGRKKRRQRRRKDHRISTFKNWPFLEGCACTPERM,Sur-X,35,Linear,L,None,Free,TAT Peptide,Anticancer,Synthetic,HCT-15,Colon Cancer,MTT assay,Not Available,Not Available,Colon,None
+6833,32381104,2021,YGRKKRRQRRRKDHRISTFKNWPFLEGCACTPERM,Sur-X,35,Linear,L,None,Free,TAT Peptide,Anticancer,Synthetic,RKO,Colon Cancer,MTT assay,25% cell viability at at 20 μM,24-h,Colon,None
+6834,32381104,2021,YGRKKRRQRRRKDHRISTFKNWPFLEGCACTPERM,Sur-X,35,Linear,L,None,Free,TAT Peptide,Anticancer,Synthetic,HT-29,Colon Cancer,MTT assay,Not Available,Not Available,Colon,None
+6887,34361728,2021,Structure given in figure,GA - 2,Not Available,Linear,L,None,Free,18beta-glycyrrhetinic-acid,Antimicrobial and Anticancer,Synthetic (glycyrrhetinic acid (GA)-based peptides),HCT-116,Colon Cancer,MTT assay,IC50 = 70.30 ± 0.9 µg/mL,24-h,Colon,None
+6889,34361728,2021,Structure given in figure,GA - 3,Not Available,Linear,L,None,Free,18beta-glycyrrhetinic-acid,Antimicrobial and Anticancer,Synthetic (glycyrrhetinic acid (GA)-based peptides),HCT-116,Colon Cancer,MTT assay,IC50 = 7.40 ± 0.4 µg/mL,24-h,Colon,None
+6891,34361728,2021,Structure given in figure,GA - 4,Not Available,Linear,L,None,Free,18beta-glycyrrhetinic-acid,Antimicrobial and Anticancer,Synthetic (glycyrrhetinic acid (GA)-based peptides),HCT-116,Colon Cancer,MTT assay,IC50 = 73.0 ± 1.4 µg/mL,24-h,Colon,None
+6893,34361728,2021,Structure given in figure,GA - 5,Not Available,Linear,L,None,Free,18beta-glycyrrhetinic-acid,Antimicrobial and Anticancer,Synthetic (glycyrrhetinic acid (GA)-based peptides),HCT-116,Colon Cancer,MTT assay,IC50 = 5.2 ± 0.8 µg/mL,24-h,Colon,None
+6895,34361728,2021,Structure given in figure,GA - 7,Not Available,Linear,L,None,Free,18beta-glycyrrhetinic-acid,Antimicrobial and Anticancer,Synthetic (glycyrrhetinic acid (GA)-based peptides),HCT-116,Colon Cancer,MTT assay,IC50 = 3.0 ± 1.1 µg/mL,24-h,Colon,None
+6898,34361728,2021,Structure given in figure,GA - 8,Not Available,Linear,L,None,Free,18beta-glycyrrhetinic-acid,Antimicrobial and Anticancer,Synthetic (glycyrrhetinic acid (GA)-based peptides),HCT-116,Colon Cancer,MTT assay,IC50 = 60.70 ± 0.6 µg/mL,24-h,Colon,None
+7218,36005521,2022,GWGSFFKKAAHVGKHVGKAALTHYL,Ple-a,25,Linear,L,None,Amidation,Free,Antimicrobial,C-terminal-amidated derivative of Pleurocidin,WiDr,Colon Cancer,MTT assay,IC50 = 197.3 μM,24-h,Colon,None
+7258,35631675,2022,FAKLLAKLAKKLL,HB43,13,Linear,L,None,Amidation,Free,Anticancer,Synthetic,SW-480,Colon Cancer,AlamarBlue assay,IC50 = 12 ± 4 μM,24-h,Colon,None
+7259,35631675,2022,FAKLLAKLAKKLL,HB43,13,Linear,L,None,Amidation,Free,Anticancer,Synthetic,SW-620,Colon Cancer,AlamarBlue assay,IC50 = 10 ± 1 μM,24-h,Colon,None
+7260,35631675,2022,FAKLLAKLAKKLL,HB43,13,Linear,L,None,Amidation,Free,Anticancer,Synthetic,HT-29,Colon Cancer,AlamarBlue assay,IC50 = 11 ± 1 μM,24-h,Colon,None
+7262,35631675,2022,FAKLLAKLAKLLK,HB43-mut2,13,Linear,L,None,Amidation,Free,Anticancer,Synthetic,SW-480,Colon Cancer,AlamarBlue assay,IC50 = 34 ± 2 μM,24-h,Colon,None
+7263,35631675,2022,FAKLLAKLAKLLK,HB43-mut2,13,Linear,L,None,Amidation,Free,Anticancer,Synthetic,SW-620,Colon Cancer,AlamarBlue assay,IC50 = 40 ± 3 μM,24-h,Colon,None
+7264,35631675,2022,FAKLLAKLAKLLK,HB43-mut2,13,Linear,L,None,Amidation,Free,Anticancer,Synthetic,HT-29,Colon Cancer,AlamarBlue assay,IC50 = 50 ± 3 μM,24-h,Colon,None
+7266,35631675,2022,FAKLLAKLARRLL,HB43-mut3,13,Linear,L,None,Amidation,Free,Anticancer,Synthetic,SW-480,Colon Cancer,AlamarBlue assay,IC50 = 8 ± 1 μM,24-h,Colon,None
+7267,35631675,2022,FAKLLAKLARRLL,HB43-mut3,13,Linear,L,None,Amidation,Free,Anticancer,Synthetic,SW-620,Colon Cancer,AlamarBlue assay,IC50 = 9 ± 1 μM,24-h,Colon,None
+7268,35631675,2022,FAKLLAKLARRLL,HB43-mut3,13,Linear,L,None,Amidation,Free,Anticancer,Synthetic,HT-29,Colon Cancer,AlamarBlue assay,IC50 = 9 ± 1 μM,24-h,Colon,None
+7334,35209215,2022,NGVQPKYRWWRWWRRWW,RT2,17,Linear,L,None,Amidation,Free,Antimicrobial,Crocodylus siamensis,CaCo-2,Colon Cancer,MTT assay,IC50 = 29.74 μM,24-h,Colon,None
+7360,35200639,2022,WYIRKIRRFFKWLKKKLKKK,P6,20,Linear,L,None,Free,Free,Antitumor,Arca inflata,SW-620,Colon Cancer,MTT assay,IC50 >27 μg/mL,48-h,Colon,None
+7374,37833918,2023,FLPLILRKIVTAL,Crabrolin,13,Linear,L,None,Amidation,Free,Antimicrobial,European hornet (Vespa crabro),HCT-116,Colon Cancer,MTT assay,IC50 = 8.539 μM,24-h,Colon,None
+7379,37833918,2023,FLPRILRKIVTAL,Crabrolin-4R,13,Linear,L,None,Amidation,Free,Antimicrobial,Synthetic Analog of Crabrolin,HCT-116,Colon Cancer,MTT assay,IC50 = 47.02 μM,24-h,Colon,None
+7384,37833918,2023,FLPKILRKIVTAL,Crabrolin-4K,13,Linear,L,None,Amidation,Free,Antimicrobial,Synthetic Analog of Crabrolin,HCT-116,Colon Cancer,MTT assay,IC50 = 42.88 μM,24-h,Colon,None
+7389,37833918,2023,FLPRILRKIVRAL,Crabrolin-TR,13,Linear,L,None,Amidation,Free,Antimicrobial,Synthetic Analog of Crabrolin,HCT-116,Colon Cancer,MTT assay,IC50 = 2.810 μM,24-h,Colon,None
+7394,37833918,2023,RLPRILRKIVRAL,Crabrolin-FR,13,Linear,L,None,Amidation,Free,Antimicrobial,Synthetic Analog of Crabrolin,HCT-116,Colon Cancer,MTT assay,IC50 = 30.29 μM,24-h,Colon,None
+7399,37833918,2023,RLPRILRKIVRRL,Crabrolin-AR,13,Linear,L,None,Amidation,Free,Antimicrobial,Synthetic Analog of Crabrolin,HCT-116,Colon Cancer,MTT assay,IC50 = 29.90 μM,24-h,Colon,None
+7404,37833918,2023,RLRRILRKIVRRL,Crabrolin-PR,13,Linear,L,None,Amidation,Free,Antimicrobial,Synthetic Analog of Crabrolin,HCT-116,Colon Cancer,MTT assay,IC50 = 16.29 μM,24-h,Colon,None
+7423,37867694,2023,RWQWRWQWR,LfcinB (21-25)Pal,9,Linear,L,None,Amidation,Free,Anticancer,LfcinB,HT-29,Colon Cancer,MTT assay,IC50 = 100 μM,24-h,Colon,None
+7425,37867694,2023,Ahx-RWQWRWQWR,Ahx-[Pal],10,Linear,L,Ahx = Amino Hexanoic Acid,Amidation,Free,Anticancer,Synthetic,HT-29,Colon Cancer,MTT assay,IC50 = 119 μM,24-h,Colon,None
+7427,37867694,2023,RWQWRWQWO,9[Orn] [Pal],9,Linear,L,O=Ornithine,Amidation,Free,Anticancer,Synthetic,HT-29,Colon Cancer,MTT assay,IC50 = 109 μM,24-h,Colon,None
+7435,37646048,2023,GLFDIIKKIIKSF,Aurein 1.2_mutant (Aurm),13,Linear,L,None,Free,Acetylation,Antimicrobial,Synthetic,SW-480,Colon Cancer,MTT assay,51.63% cell viability,24-h,Colon,None
+7436,37646048,2023,GLFDIIKKIIKSF,Aurein 1.2_mutant (Aurm),13,Linear,L,None,Free,Acetylation,Antimicrobial,Synthetic,HT-29,Colon Cancer,MTT assay,66.10% cell viability,24-h,Colon,None
+7437,37646048,2023,RRRRRGLFDIIKKIAESF,Aurein 1.2_R5 (R5-Aur),18,Linear,L,None,Free,Acetylation,Antimicrobial,Synthetic,SW-480,Colon Cancer,MTT assay,43.89% cell viability,24-h,Colon,None
+7438,37646048,2023,RRRRRGLFDIIKKIAESF,Aurein 1.2_R5 (R5-Aur),18,Linear,L,None,Free,Acetylation,Antimicrobial,Synthetic,HT-29,Colon Cancer,MTT assay,61.56% cell viability,24-h,Colon,None
+7439,37646048,2023,RRRRRGLFDIIKKIIKSF,Aurein 1.2_mutant_R5 (R5-Aurm),18,Linear,L,None,Free,Acetylation,Antimicrobial,Synthetic,SW-480,Colon Cancer,MTT assay,40.62% cell viability,24-h,Colon,None
+7440,37646048,2023,RRRRRGLFDIIKKIIKSF,Aurein 1.2_mutant_R5 (R5-Aurm),18,Linear,L,None,Free,Acetylation,Antimicrobial,Synthetic,HT-29,Colon Cancer,MTT assay,54.22% cell viability,24-h,Colon,None
+7479,37396945,2023,LSTAADMQGVVTDGMASGLDKDYLKPDD,p28,28,Linear,L,None,Free,Free,Antitumor,Pseudomonas aeruginosa,HT-29,Colon Cancer,MTT assay,IC50 ~ 200 μg/ml,24-h,Colon,None
+7491,37344857,2023,rrrqrrkkrg-QTQPRLGPPQTPAGGCSILIF,M1-21,31,Linear,Mix,None,Free,Free,Anticancer,Synthetic,HCT-116,Colon Cancer,Cell Viability assay,IC50 = 9.08 µM,72-h,Colon,None
+7503,37508198,2023,GLMDMLKKVGKVALTVAKSALLP,Picturin 2BN,23,Linear,L,None,Amidation,Free,Antimicrobial and Antitumor,Giant Gladiator Treefrog (Boana boans),HT-29,Colon Cancer,MTT assay,LC50 52.2 uM,24-h,Colon,None
+7506,37508198,2023,GIFKDTLKKVVAAVLTTVADNIHPK,Picturin 1BN,25,Linear,L,None,Amidation,Free,Antimicrobial and Antitumor,Giant Gladiator Treefrog (Boana boans),HT-29,Colon Cancer,MTT assay,LC50 = 84.9 uM,24-h,Colon,None
+7509,37508198,2023,FLGVALKLGKVLGKALLPLASSLLHSQ,Figanin 2BN,27,Linear,L,None,Amidation,Free,Antimicrobial and Antitumor,Giant Gladiator Treefrog (Boana boans),HT-29,Colon Cancer,MTT assay,LC50 = 14.1 uM,24-h,Colon,None
+7564,36910465,2023,KLWCKSSQVPQSR,ALA-A2,13,Linear,L,None,Free,Free,Anticancer,Alpha-Lactalbumin,HT-29,Colon Cancer,MTT assay,~50% cell viability,24-h,Colon,None
+7606,31234333,2023,GLFSVVKGVLKGVGKNVSGSLLDQLKCKISGGC,LFB,33,Linear,L,None,Free,Free,Antimicrobial,Limnonectes fujianensis,HCT-116,Colon Cancer,MTT assay,IC50 = 2.02 μM,24-h,Colon,None
+7607,31234333,2023,GLFSVVKGVLKGVGKNVSGSLLDQLKCKISGGC,LFB,33,Linear,L,None,Free,Free,Antimicrobial,Limnonectes fujianensis,HCT-116,Colon Cancer,LDH leakage assay,LDH release above 80%,24-h,Colon,None
+7619,36934526,2023,RLLRLLRLRRLLRL,WP2,14,Linear,L,None,Hydroxamic acid,Acetylation,Anticancer,Derived from RLL peptide,HT-29,Colon Cancer,Cell Viability assay,IC50 = 42.6 ± 4.0 μM,48-h,Colon,None
