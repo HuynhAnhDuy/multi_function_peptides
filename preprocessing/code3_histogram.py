@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # ====== CONFIG ======
-INPUT_CSV = '/home/andy/andy/ACP/WGAN-GP/ACP_full_cleaned_cdhit.csv'
+INPUT_CSV = 'ACP_full_cleaned_cdhit.csv'
 OUTPUT_CSV = 'ACP_full_WGAN.csv'
 HISTOGRAM_FILE = 'Histogram_ACP_full.svg'
 
@@ -29,10 +29,10 @@ print(df['length'].describe())
 print(f"Tổng số chuỗi: {N_total}")
 
 # Phân bố theo khoảng
-n_lt_10  = (df['length'] < 10).sum()
-n_10_15  = df['length'].between(10, 15).sum()
-n_16_60  = df['length'].between(16, 60).sum()
-n_gt_60  = (df['length'] > 60).sum()
+n_lt_10 = (df['length'] < L_MIN).sum()
+n_10_15  = df['length'].between(L_MIN, 15).sum()
+n_16_60  = df['length'].between(16, L_MAX_HARD).sum()
+n_gt_60  = (df['length'] > L_MAX_HARD).sum()
 
 print("\n=== Phân bố theo khoảng độ dài ===")
 print(f"< 10 aa         : {n_lt_10:3d} sequences ({n_lt_10 / N_total * 100:5.1f}%)")
@@ -72,8 +72,6 @@ plt.xlabel('Peptide length (aa)', fontweight='bold', fontstyle='italic', fontsiz
 plt.ylabel('Count', fontweight='bold', fontstyle='italic', fontsize=12)
 
 textstr = (
-    f"Mean length: {mean_len:.1f} aa\n"
-    f"Median length: {median_len:.1f} aa\n"
     f"< 10 aa: {n_lt_10} ({n_lt_10 / N_total * 100:4.1f}%)\n"
     f"10–15 aa: {n_10_15} ({n_10_15 / N_total * 100:4.1f}%)\n"
     f"16–60 aa: {n_16_60} ({n_16_60 / N_total * 100:4.1f}%)\n"

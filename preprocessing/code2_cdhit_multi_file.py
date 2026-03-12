@@ -73,7 +73,7 @@ def check_cdhit():
 
 
 # ===== STEP 3: RUN CD-HIT =====
-def run_cdhit(input_fasta, output_fasta, threshold=0.8):
+def run_cdhit(input_fasta, output_fasta, threshold=0.9):
     print(f"[...] Running CD-HIT on '{input_fasta}' (c = {threshold:.2f}, {threshold*100:.1f}% identity) ...")
     start_time = time.time()
 
