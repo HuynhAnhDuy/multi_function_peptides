@@ -104,7 +104,7 @@ print(df_props.columns)
 # ---------- Tiêu chí (ưu tiên tan nước) ----------
 criteria = {
     "molecular_weight":            lambda x: x <= 2300,
-    "instability_index":           lambda x: x <= 50,
+    "instability_index":           lambda x: x <= 40,
     "net_charge_pH7.4":            lambda x: 2.0 <= x <= 5.5,
     "hydrophobic_ratio":           lambda x: 0.50 <= x <= 0.64,
     "GRAVY":                       lambda x: -0.4 <= x <= 1.1,

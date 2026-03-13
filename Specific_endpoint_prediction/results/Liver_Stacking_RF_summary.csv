@@ -1,0 +1,5 @@
+Metric,Mean ± SD
+Accuracy,0.865 ± 0.018
+MCC,0.750 ± 0.043
+AUROC,0.906 ± 0.032
+AUPRC,0.931 ± 0.024
